@@ -4173,3 +4173,36 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [11Dec2024 23:19:49.741] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
 [11Dec2024 23:19:49.741] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
 [11Dec2024 23:19:49.741] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[11Dec2024 23:20:19.791] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[11Dec2024 23:20:19.791] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[11Dec2024 23:20:19.791] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[11Dec2024 23:20:45.858] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Dec2024 23:20:45.863] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Dec2024 23:20:49.841] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[11Dec2024 23:20:49.841] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[11Dec2024 23:20:49.841] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[11Dec2024 23:21:19.891] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[11Dec2024 23:21:19.891] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[11Dec2024 23:21:19.891] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[11Dec2024 23:21:49.348] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: byronmhx lost connection: Disconnected
+[11Dec2024 23:21:49.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: byronmhx left the game
+[11Dec2024 23:21:49.941] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[11Dec2024 23:21:49.941] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[11Dec2024 23:21:49.941] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[11Dec2024 23:21:58.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[11Dec2024 23:21:58.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[11Dec2024 23:21:58.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[11Dec2024 23:21:58.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[11Dec2024 23:21:58.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[11Dec2024 23:22:00.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[11Dec2024 23:22:00.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[11Dec2024 23:22:00.016] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Dec2024 23:22:00.021] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Dec2024 23:22:00.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[11Dec2024 23:22:00.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[11Dec2024 23:22:00.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[11Dec2024 23:22:00.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[11Dec2024 23:22:00.052] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[11Dec2024 23:22:00.052] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[11Dec2024 23:22:00.052] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[11Dec2024 23:22:00.052] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
