@@ -1,80 +1,27 @@
 {
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
-      "unlock_right_away": "2024-12-07 04:35:17 +0000"
+      "unlock_right_away": "2024-12-12 16:44:52 +0000"
     },
     "done": true
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:river": "2024-12-07 04:35:18 +0000",
-      "minecraft:desert": "2024-12-07 04:36:09 +0000"
+      "minecraft:taiga": "2024-12-12 16:48:37 +0000",
+      "minecraft:deep_ocean": "2024-12-12 16:46:57 +0000",
+      "minecraft:beach": "2024-12-12 16:45:49 +0000",
+      "minecraft:river": "2024-12-12 16:45:29 +0000",
+      "minecraft:cold_ocean": "2024-12-12 16:47:01 +0000",
+      "minecraft:forest": "2024-12-12 16:45:48 +0000",
+      "minecraft:deep_cold_ocean": "2024-12-12 16:46:59 +0000",
+      "minecraft:ocean": "2024-12-12 16:46:40 +0000",
+      "minecraft:plains": "2024-12-12 16:44:53 +0000"
     },
     "done": false
   },
-  "minecraft:recipes/building_blocks/quartz_slab": {
+  "minecraft:adventure/sleep_in_bed": {
     "criteria": {
-      "has_quartz_block": "2024-12-11 23:14:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/quartz_bricks": {
-    "criteria": {
-      "has_quartz_block": "2024-12-11 23:14:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
-    "criteria": {
-      "has_quartz_block": "2024-12-11 23:14:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/quartz_pillar": {
-    "criteria": {
-      "has_quartz_block": "2024-12-11 23:14:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
-    "criteria": {
-      "has_quartz_block": "2024-12-11 23:14:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/quartz_stairs": {
-    "criteria": {
-      "has_quartz_block": "2024-12-11 23:14:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_quartz": {
-    "criteria": {
-      "has_quartz_block": "2024-12-11 23:14:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
-    "criteria": {
-      "has_quartz_block": "2024-12-11 23:14:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
-    "criteria": {
-      "has_quartz_block": "2024-12-11 23:14:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
-    "criteria": {
-      "has_quartz_block": "2024-12-11 23:14:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
-    "criteria": {
-      "has_quartz_block": "2024-12-11 23:14:48 +0000"
+      "slept_in_bed": "2024-12-12 16:54:45 +0000"
     },
     "done": true
   },
