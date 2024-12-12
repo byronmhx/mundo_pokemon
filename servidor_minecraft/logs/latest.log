@@ -1470,3 +1470,12 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [12Dec2024 21:00:56.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [byronmhx: Killed byronmhx]
 [12Dec2024 21:00:56.870] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/cobblemon/mod/common/pokemon/feature/CobblemonSeason
 [12Dec2024 21:07:22.609] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/player/AdvancementEvent$AdvancementProgressEvent$ProgressType
+[12Dec2024 21:08:32.105] [Worker-Main-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/OreVeinifier$VeinType
+[12Dec2024 21:08:47.247] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/sk89q/worldedit/util/formatting/text/event/HoverEvent$Action
+[12Dec2024 21:08:47.265] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/sk89q/worldedit/util/io/file/AttributeTarget
+[12Dec2024 21:08:47.305] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/sk89q/worldedit/util/formatting/text/format/Style$Merge$Strategy
+[12Dec2024 21:08:55.360] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/living/LivingChangeTargetEvent$LivingTargetType
+[12Dec2024 21:09:26.072] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/sk89q/worldedit/internal/command/CommandArgParser$State
+[12Dec2024 21:13:51.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [byronmhx: Set own game mode to Survival Mode]
+[12Dec2024 21:18:33.358] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: byronmhx lost connection: Disconnected
+[12Dec2024 21:18:33.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: byronmhx left the game
