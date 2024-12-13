@@ -1474,3 +1474,38 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [13Dec2024 02:30:47.867] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/entity/BeehiveBlockEntity$BeeReleaseStatus
 [13Dec2024 02:30:52.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [byronmhx: Set own game mode to Survival Mode]
 [13Dec2024 02:30:58.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Katvi_11 has made the advancement [The World of Cobblemon!]
+[13Dec2024 02:32:19.118] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-180, y=63, z=-1648}
+[13Dec2024 02:32:59.040] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-184, y=62, z=-1657}
+[13Dec2024 02:35:38.185] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/player/Player$BedSleepingProblem
+[13Dec2024 02:35:56.917] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-179, y=63, z=-1648}
+[13Dec2024 02:36:13.804] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-179, y=63, z=-1648}
+[13Dec2024 02:36:16.462] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-179, y=63, z=-1648}
+[13Dec2024 02:36:17.416] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-180, y=63, z=-1648}
+[13Dec2024 02:36:19.962] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-179, y=63, z=-1648}
+[13Dec2024 02:36:20.211] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-179, y=63, z=-1648}
+[13Dec2024 02:36:31.259] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-184, y=62, z=-1655}
+[13Dec2024 02:36:44.511] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-184, y=62, z=-1656}
+[13Dec2024 02:36:49.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made katvi11 a server operator
+[13Dec2024 02:36:51.821] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-185, y=62, z=-1654}
+[13Dec2024 02:36:54.357] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-185, y=62, z=-1654}
+[13Dec2024 02:37:09.456] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-184, y=62, z=-1651}
+[13Dec2024 02:37:23.627] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-180, y=63, z=-1660}
+[13Dec2024 02:37:23.772] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-180, y=63, z=-1660}
+[13Dec2024 02:37:31.321] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-180, y=63, z=-1660}
+[13Dec2024 02:38:02.667] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/oracle/truffle/js/nodes/array/TestArrayNode$Test
+[13Dec2024 02:38:03.150] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/oracle/truffle/js/runtime/objects/Completion$Type
+[13Dec2024 02:38:03.215] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/cobblemon/mod/common/battles/ShowdownMoveset$Gimmick
+[13Dec2024 02:38:03.725] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-189, y=67, z=-1652}
+[13Dec2024 02:38:04.122] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/cobblemon/mod/common/battles/ShowdownActionResponseType
+[13Dec2024 02:38:09.568] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Katvi_11 lost connection: Disconnected
+[13Dec2024 02:38:09.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Katvi_11 left the game
+[13Dec2024 02:38:12.039] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/cobblemon/mod/common/api/battles/interpreter/Effect$Type
+[13Dec2024 02:38:18.719] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/cobblemon/mod/common/api/battles/interpreter/BattleContext$Type
+[13Dec2024 02:39:27.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: byronmhx has made the advancement [Healing Power]
+[13Dec2024 02:40:12.025] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Katvi_11[/100.82.62.26:50401] logged in with entity id 727 at (-188.6171956088522, 63.0, -1653.9758412317235)
+[13Dec2024 02:40:12.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Katvi_11 joined the game
+[13Dec2024 02:40:12.103] [Server thread/INFO] [Jade/]: Syncing config to Katvi_11 (4ca02516-fe52-3bac-888d-ddd6341729de)
+[13Dec2024 02:40:59.901] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-182, y=62, z=-1649}
+[13Dec2024 02:41:12.231] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-196, y=62, z=-1654}
+[13Dec2024 02:41:12.994] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-196, y=62, z=-1653}
+[13Dec2024 02:41:14.688] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-194, y=62, z=-1653}

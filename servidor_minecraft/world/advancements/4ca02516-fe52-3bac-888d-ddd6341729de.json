@@ -5,12 +5,30 @@
     },
     "done": true
   },
+  "cobblemon:root": {
+    "criteria": {
+      "picked_starter": "2024-12-13 02:30:58 +0000"
+    },
+    "done": true
+  },
+  "megamons:grant_megamons_guide": {
+    "criteria": {
+      "tick": "2024-12-13 02:30:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2024-12-13 02:25:14 +0000",
       "minecraft:forest": "2024-12-13 02:27:14 +0000"
     },
     "done": false
+  },
+  "cobblepedia:grant_cobblepedia": {
+    "criteria": {
+      "picked_starter": "2024-12-13 02:30:58 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }

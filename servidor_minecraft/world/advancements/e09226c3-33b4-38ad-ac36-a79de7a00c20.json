@@ -85,5 +85,23 @@
     },
     "done": true
   },
+  "cobblemon:root": {
+    "criteria": {
+      "picked_starter": "2024-12-13 02:29:18 +0000"
+    },
+    "done": true
+  },
+  "megamons:grant_megamons_guide": {
+    "criteria": {
+      "tick": "2024-12-13 02:29:18 +0000"
+    },
+    "done": true
+  },
+  "cobblepedia:grant_cobblepedia": {
+    "criteria": {
+      "picked_starter": "2024-12-13 02:29:18 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
