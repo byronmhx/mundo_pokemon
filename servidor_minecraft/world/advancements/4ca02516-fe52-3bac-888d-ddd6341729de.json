@@ -529,6 +529,12 @@
     },
     "done": false
   },
+  "cobblemon:use_candy": {
+    "criteria": {
+      "use_m_candy": "2024-12-16 03:26:53 +0000"
+    },
+    "done": true
+  },
   "cobblemon:recipes/agriculture/mulch_base": {
     "criteria": {
       "has_berry": "2024-12-16 01:58:18 +0000"
@@ -736,6 +742,12 @@
   "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2024-12-16 03:17:01 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:first_evolution": {
+    "criteria": {
+      "evolve": "2024-12-16 03:28:01 +0000"
     },
     "done": true
   },

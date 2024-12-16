@@ -1510,3 +1510,8 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [16Dec2024 03:04:33.869] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-184, y=66, z=-1631} BlockPos{x=-190, y=66, z=-1645}
 [16Dec2024 03:11:05.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [byronmhx: Teleported Katvi_11 to byronmhx]
 [16Dec2024 03:18:35.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [byronmhx: Teleported Katvi_11 to byronmhx]
+[16Dec2024 03:23:47.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [byronmhx: Set own game mode to Creative Mode]
+[16Dec2024 03:24:03.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [byronmhx: Set own game mode to Survival Mode]
+[16Dec2024 03:26:09.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: byronmhx has made the advancement [Sweet Tooth]
+[16Dec2024 03:26:53.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Katvi_11 has made the advancement [Sweet Tooth]
+[16Dec2024 03:28:01.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Katvi_11 has made the advancement [Hard Work and Dedication]
