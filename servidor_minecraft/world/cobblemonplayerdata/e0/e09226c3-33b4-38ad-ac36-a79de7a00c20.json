@@ -8,12 +8,12 @@
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 11,
+    "totalCaptureCount": 12,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 1,
-    "totalBattleVictoryCount": 70,
+    "totalBattleVictoryCount": 79,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 70,
+    "totalPvWBattleVictoryCount": 79,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 0,
@@ -23,8 +23,9 @@
       "electric": 2,
       "dark": 1,
       "ice": 1,
-      "grass": 1,
-      "fire": 1
+      "grass": 2,
+      "fire": 1,
+      "ghost": 1
     },
     "totalDefeatedCounts": {
       "cobblemon:zigzagoon": 8,
@@ -37,11 +38,11 @@
       "cobblemon:linoone": 1,
       "cobblemon:lopunny": 1,
       "cobblemon:lechonk": 1,
-      "cobblemon:teddiursa": 1,
-      "cobblemon:buneary": 5,
+      "cobblemon:teddiursa": 2,
+      "cobblemon:buneary": 7,
       "cobblemon:voltorb": 1,
-      "cobblemon:pineco": 3,
-      "cobblemon:fletchling": 8,
+      "cobblemon:pineco": 4,
+      "cobblemon:fletchling": 10,
       "cobblemon:sentret": 3,
       "cobblemon:vivillon": 1,
       "cobblemon:corvisquire": 2,
@@ -49,9 +50,10 @@
       "cobblemon:caterpie": 1,
       "cobblemon:seedot": 1,
       "cobblemon:pidgeotto": 1,
-      "cobblemon:vulpix": 1,
+      "cobblemon:vulpix": 2,
       "cobblemon:fletchinder": 1,
-      "cobblemon:furret": 1
+      "cobblemon:furret": 1,
+      "cobblemon:staravia": 1
     },
     "aspectsCollected": {}
   }

@@ -654,7 +654,9 @@
   "cobblemon:obtain_all_berries": {
     "criteria": {
       "obtain_chesto_berry": "2024-12-16 01:59:41 +0000",
-      "obtain_rindo_berry": "2024-12-16 02:00:16 +0000"
+      "obtain_rindo_berry": "2024-12-16 02:00:16 +0000",
+      "obtain_oran_berry": "2024-12-16 03:03:42 +0000",
+      "obtain_wacan_berry": "2024-12-16 03:01:29 +0000"
     },
     "done": false
   },

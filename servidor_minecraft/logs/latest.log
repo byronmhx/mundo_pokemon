@@ -1506,3 +1506,6 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [16Dec2024 02:52:47.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Katvi_11 has made the advancement [Getting an Upgrade]
 [16Dec2024 02:59:44.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [byronmhx: Teleported Katvi_11 to byronmhx]
 [16Dec2024 03:01:11.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [byronmhx: Teleported Katvi_11 to byronmhx]
+[16Dec2024 03:04:33.379] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-184, y=66, z=-1631} BlockPos{x=-191, y=65, z=-1645}
+[16Dec2024 03:04:33.869] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-184, y=66, z=-1631} BlockPos{x=-190, y=66, z=-1645}
+[16Dec2024 03:11:05.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [byronmhx: Teleported Katvi_11 to byronmhx]

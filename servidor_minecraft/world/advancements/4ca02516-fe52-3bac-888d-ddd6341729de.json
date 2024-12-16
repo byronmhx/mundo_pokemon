@@ -251,9 +251,10 @@
   },
   "cobblemon:recipes/balls/heal_ball": {
     "criteria": {
+      "has_white_apricorn": "2024-12-16 03:07:34 +0000",
       "has_pink_apricorn": "2024-12-13 03:05:26 +0000"
     },
-    "done": false
+    "done": true
   },
   "cobblemon:recipes/balls/dream_ball": {
     "criteria": {
@@ -263,9 +264,10 @@
   },
   "cobblemon:recipes/balls/love_ball": {
     "criteria": {
+      "has_white_apricorn": "2024-12-16 03:07:34 +0000",
       "has_pink_apricorn": "2024-12-13 03:05:26 +0000"
     },
-    "done": false
+    "done": true
   },
   "cobblemon:recipes/balls/level_ball": {
     "criteria": {
@@ -350,6 +352,18 @@
     },
     "done": false
   },
+  "cobblemon:recipes/balls/dive_ball": {
+    "criteria": {
+      "has_white_apricorn": "2024-12-16 03:07:34 +0000"
+    },
+    "done": false
+  },
+  "cobblemon:recipes/balls/premier_ball": {
+    "criteria": {
+      "has_white_apricorn": "2024-12-16 03:07:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2024-12-16 01:43:33 +0000"
@@ -412,6 +426,7 @@
   },
   "cobblemon:recipes/balls/moon_ball": {
     "criteria": {
+      "has_white_apricorn": "2024-12-16 03:07:34 +0000",
       "has_yellow_apricorn": "2024-12-16 02:50:06 +0000"
     },
     "done": false
@@ -478,6 +493,7 @@
   },
   "cobblemon:recipes/balls/safari_ball": {
     "criteria": {
+      "has_white_apricorn": "2024-12-16 03:07:34 +0000",
       "has_yellow_apricorn": "2024-12-16 02:50:06 +0000"
     },
     "done": false
@@ -508,6 +524,7 @@
   },
   "cobblemon:recipes/balls/fast_ball": {
     "criteria": {
+      "has_white_apricorn": "2024-12-16 03:07:34 +0000",
       "has_yellow_apricorn": "2024-12-16 02:50:06 +0000"
     },
     "done": false
@@ -572,6 +589,12 @@
     },
     "done": true
   },
+  "cobblemon:recipes/balls/net_ball": {
+    "criteria": {
+      "has_white_apricorn": "2024-12-16 03:07:34 +0000"
+    },
+    "done": false
+  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2024-12-16 02:52:47 +0000"
@@ -596,6 +619,12 @@
     },
     "done": true
   },
+  "cobblemon:recipes/agriculture/white_apricorn_smelt_to_dye": {
+    "criteria": {
+      "has_apricorn": "2024-12-16 03:07:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2024-12-16 01:42:30 +0000"
@@ -605,6 +634,12 @@
   "cobblemon:recipes/balls/luxury_ball": {
     "criteria": {
       "has_yellow_apricorn": "2024-12-16 02:50:06 +0000"
+    },
+    "done": false
+  },
+  "cobblemon:recipes/balls/sport_ball": {
+    "criteria": {
+      "has_white_apricorn": "2024-12-16 03:07:34 +0000"
     },
     "done": false
   },
@@ -637,6 +672,12 @@
       "has_brown_mushroom": "2024-12-16 02:16:27 +0000"
     },
     "done": true
+  },
+  "cobblemon:recipes/balls/timer_ball": {
+    "criteria": {
+      "has_white_apricorn": "2024-12-16 03:07:34 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
