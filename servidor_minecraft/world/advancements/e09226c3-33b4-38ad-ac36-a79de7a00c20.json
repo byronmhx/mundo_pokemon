@@ -715,18 +715,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/bowl": {
-    "criteria": {
-      "has_brown_mushroom": "2024-12-16 03:25:43 +0000"
-    },
-    "done": true
-  },
-  "cobblemon:recipes/consumables/berry_juice": {
-    "criteria": {
-      "has_berries": "2024-12-16 03:16:58 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/fishing_rod": {
     "criteria": {
       "has_string": "2024-12-16 02:29:00 +0000"
@@ -745,12 +733,6 @@
     },
     "done": true
   },
-  "cobblemon:use_candy": {
-    "criteria": {
-      "use_m_candy": "2024-12-16 03:26:08 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2024-12-16 02:29:00 +0000"
@@ -760,6 +742,24 @@
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_string": "2024-12-16 02:29:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2024-12-16 02:29:00 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/consumables/berry_juice": {
+    "criteria": {
+      "has_berries": "2024-12-16 03:16:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2024-12-16 03:25:43 +0000"
     },
     "done": true
   },
@@ -775,9 +775,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/loom": {
+  "cobblemon:use_candy": {
     "criteria": {
-      "has_string": "2024-12-16 02:29:00 +0000"
+      "use_m_candy": "2024-12-16 03:26:08 +0000"
     },
     "done": true
   },
