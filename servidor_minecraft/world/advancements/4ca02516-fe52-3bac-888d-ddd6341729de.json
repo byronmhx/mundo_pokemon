@@ -8,6 +8,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2024-12-13 02:25:14 +0000",
+      "minecraft:beach": "2024-12-16 02:44:23 +0000",
       "minecraft:river": "2024-12-13 03:13:09 +0000",
       "minecraft:forest": "2024-12-13 02:27:14 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-12-16 02:15:30 +0000"
@@ -340,6 +341,7 @@
   },
   "cobblemon:obtain_all_berries": {
     "criteria": {
+      "obtain_yache_berry": "2024-12-16 02:28:31 +0000",
       "obtain_aspear_berry": "2024-12-16 02:01:47 +0000",
       "obtain_chesto_berry": "2024-12-16 01:58:18 +0000",
       "obtain_rindo_berry": "2024-12-16 02:01:51 +0000",
@@ -365,9 +367,21 @@
     },
     "done": true
   },
+  "cobblemon:obtain_leek": {
+    "criteria": {
+      "check_inv": "2024-12-16 02:34:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2024-12-16 01:43:33 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/agriculture/medicinal_leek_to_magenta_dye": {
+    "criteria": {
+      "has_leek": "2024-12-16 02:34:05 +0000"
     },
     "done": true
   },
@@ -401,6 +415,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2024-12-16 02:41:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
     "criteria": {
       "has_porkchop": "2024-12-16 01:45:56 +0000"
@@ -413,9 +433,27 @@
     },
     "done": true
   },
+  "cobblemon:recipes/consumables/roasted_leek_by_smoking": {
+    "criteria": {
+      "has_leek": "2024-12-16 02:34:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2024-12-16 01:57:40 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/consumables/roasted_leek": {
+    "criteria": {
+      "has_leek": "2024-12-16 02:34:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2024-12-16 02:36:54 +0000"
     },
     "done": true
   },
@@ -437,15 +475,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2024-12-16 02:41:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2024-12-16 01:43:33 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2024-12-16 02:36:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken_from_smoking": {
     "criteria": {
       "has_chicken": "2024-12-16 01:37:46 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/consumables/roasted_leek_by_campfire": {
+    "criteria": {
+      "has_leek": "2024-12-16 02:34:05 +0000"
     },
     "done": true
   },
@@ -512,6 +568,12 @@
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2024-12-16 01:43:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_peony": "2024-12-16 02:42:56 +0000"
     },
     "done": true
   },

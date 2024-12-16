@@ -11,9 +11,9 @@
     "totalCaptureCount": 4,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 0,
-    "totalBattleVictoryCount": 10,
+    "totalBattleVictoryCount": 15,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 10,
+    "totalPvWBattleVictoryCount": 15,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 0,
@@ -24,12 +24,12 @@
       "grass": 1
     },
     "totalDefeatedCounts": {
-      "cobblemon:rookidee": 1,
-      "cobblemon:sentret": 1,
+      "cobblemon:rookidee": 2,
+      "cobblemon:sentret": 2,
       "cobblemon:fletchling": 1,
-      "cobblemon:starly": 1,
-      "cobblemon:zigzagoon": 1,
-      "cobblemon:buneary": 1
+      "cobblemon:starly": 2,
+      "cobblemon:zigzagoon": 2,
+      "cobblemon:buneary": 2
     },
     "aspectsCollected": {}
   }
