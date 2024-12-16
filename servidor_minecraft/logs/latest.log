@@ -1487,3 +1487,15 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [16Dec2024 02:10:36.279] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 7715db64-02cd-4990-8d6b-593f051400ef
 [16Dec2024 02:10:36.280] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 7715db64-02cd-4990-8d6b-593f051400ef
 [16Dec2024 02:15:48.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [byronmhx: Teleported Katvi_11 to byronmhx]
+[16Dec2024 02:24:23.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [byronmhx: Teleported Katvi_11 to byronmhx]
+[16Dec2024 02:25:00.530] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: b0e0cda2-1985-47b4-ba11-1fc7cc0c2a68
+[16Dec2024 02:25:00.530] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: b0e0cda2-1985-47b4-ba11-1fc7cc0c2a68
+[16Dec2024 02:26:20.479] [dimthread_server_overworld/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: b6333c35-93a6-4a5e-87b0-cb936f2bccbb
+[16Dec2024 02:26:20.480] [dimthread_server_overworld/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: b6333c35-93a6-4a5e-87b0-cb936f2bccbb
+[16Dec2024 02:26:20.481] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: byronmhx was slain by Zombie
+[16Dec2024 02:29:00.079] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: byronmhx lost connection: You logged in from another location
+[16Dec2024 02:29:00.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: byronmhx left the game
+[16Dec2024 02:29:00.130] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[16Dec2024 02:29:00.132] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: byronmhx[/100.97.248.86:50569] logged in with entity id 7609 at (-174.98611483408249, 65.0, -1633.448173913747)
+[16Dec2024 02:29:00.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: byronmhx joined the game
+[16Dec2024 02:29:00.218] [Server thread/INFO] [Jade/]: Syncing config to byronmhx (e09226c3-33b4-38ad-ac36-a79de7a00c20)
