@@ -269,6 +269,7 @@
   },
   "cobblemon:recipes/balls/level_ball": {
     "criteria": {
+      "has_yellow_apricorn": "2024-12-16 02:50:06 +0000",
       "has_pink_apricorn": "2024-12-13 03:05:26 +0000"
     },
     "done": false
@@ -361,6 +362,12 @@
     },
     "done": true
   },
+  "cobblemon:recipes/balls/repeat_ball": {
+    "criteria": {
+      "has_yellow_apricorn": "2024-12-16 02:50:06 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/food/cooked_chicken": {
     "criteria": {
       "has_chicken": "2024-12-16 01:37:46 +0000"
@@ -403,11 +410,29 @@
     },
     "done": true
   },
+  "cobblemon:recipes/balls/moon_ball": {
+    "criteria": {
+      "has_yellow_apricorn": "2024-12-16 02:50:06 +0000"
+    },
+    "done": false
+  },
   "cobblemon:recipes/consumables/berry_juice": {
     "criteria": {
       "has_berries": "2024-12-16 02:01:51 +0000"
     },
     "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2024-12-16 02:53:39 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/balls/ultra_ball": {
+    "criteria": {
+      "has_yellow_apricorn": "2024-12-16 02:50:06 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
@@ -433,11 +458,29 @@
     },
     "done": true
   },
+  "cobblemon:recipes/balls/nest_ball": {
+    "criteria": {
+      "has_yellow_apricorn": "2024-12-16 02:50:06 +0000"
+    },
+    "done": false
+  },
+  "cobblemon:recipes/agriculture/yellow_apricorn_smelt_to_dye": {
+    "criteria": {
+      "has_apricorn": "2024-12-16 02:50:06 +0000"
+    },
+    "done": true
+  },
   "cobblemon:recipes/consumables/roasted_leek_by_smoking": {
     "criteria": {
       "has_leek": "2024-12-16 02:34:05 +0000"
     },
     "done": true
+  },
+  "cobblemon:recipes/balls/safari_ball": {
+    "criteria": {
+      "has_yellow_apricorn": "2024-12-16 02:50:06 +0000"
+    },
+    "done": false
   },
   "minecraft:husbandry/root": {
     "criteria": {
@@ -457,9 +500,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2024-12-16 02:50:47 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/balls/fast_ball": {
+    "criteria": {
+      "has_yellow_apricorn": "2024-12-16 02:50:06 +0000"
+    },
+    "done": false
+  },
   "cobblemon:recipes/agriculture/mulch_base": {
     "criteria": {
       "has_berry": "2024-12-16 01:58:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2024-12-16 02:52:47 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/balls/citrine_ball": {
+    "criteria": {
+      "has_yellow_apricorn": "2024-12-16 02:50:06 +0000"
     },
     "done": true
   },
@@ -481,6 +548,12 @@
     },
     "done": true
   },
+  "cobblemon:recipes/balls/friend_ball": {
+    "criteria": {
+      "has_yellow_apricorn": "2024-12-16 02:50:06 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2024-12-16 01:43:33 +0000"
@@ -499,6 +572,18 @@
     },
     "done": true
   },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2024-12-16 02:52:47 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/balls/quick_ball": {
+    "criteria": {
+      "has_yellow_apricorn": "2024-12-16 02:50:06 +0000"
+    },
+    "done": false
+  },
   "cobblemon:recipes/consumables/roasted_leek_by_campfire": {
     "criteria": {
       "has_leek": "2024-12-16 02:34:05 +0000"
@@ -516,6 +601,12 @@
       "killed_something": "2024-12-16 01:42:30 +0000"
     },
     "done": true
+  },
+  "cobblemon:recipes/balls/luxury_ball": {
+    "criteria": {
+      "has_yellow_apricorn": "2024-12-16 02:50:06 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
