@@ -282,7 +282,8 @@
   },
   "cobblemon:recipes/balls/dream_ball": {
     "criteria": {
-      "has_red_apricorn": "2024-12-13 03:13:52 +0000"
+      "has_red_apricorn": "2024-12-13 03:13:52 +0000",
+      "has_pink_apricorn": "2024-12-16 14:21:02 +0000"
     },
     "done": false
   },
@@ -306,7 +307,8 @@
   },
   "cobblemon:recipes/balls/level_ball": {
     "criteria": {
-      "has_red_apricorn": "2024-12-13 03:13:52 +0000"
+      "has_red_apricorn": "2024-12-13 03:13:52 +0000",
+      "has_pink_apricorn": "2024-12-16 14:21:02 +0000"
     },
     "done": false
   },
@@ -342,6 +344,7 @@
   },
   "cobblemon:recipes/balls/friend_ball": {
     "criteria": {
+      "has_green_apricorn": "2024-12-16 14:21:21 +0000",
       "has_red_apricorn": "2024-12-13 03:13:52 +0000"
     },
     "done": false
@@ -354,9 +357,10 @@
   },
   "cobblemon:recipes/balls/park_ball": {
     "criteria": {
+      "has_green_apricorn": "2024-12-16 14:21:21 +0000",
       "has_red_apricorn": "2024-12-13 03:13:52 +0000"
     },
-    "done": false
+    "done": true
   },
   "cobblemon:recipes/balls/luxury_ball": {
     "criteria": {
@@ -378,6 +382,7 @@
   },
   "cobblemon:recipes/balls/lure_ball": {
     "criteria": {
+      "has_green_apricorn": "2024-12-16 14:21:21 +0000",
       "has_red_apricorn": "2024-12-13 03:13:52 +0000"
     },
     "done": false
@@ -781,6 +786,18 @@
     },
     "done": true
   },
+  "cobblemon:recipes/balls/heal_ball": {
+    "criteria": {
+      "has_pink_apricorn": "2024-12-16 14:21:02 +0000"
+    },
+    "done": false
+  },
+  "cobblemon:rainbow_apricorns": {
+    "criteria": {
+      "place_pink": "2024-12-16 14:22:11 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
       "has_diorite": "2024-12-16 14:01:49 +0000"
@@ -793,15 +810,57 @@
     },
     "done": true
   },
+  "cobblemon:recipes/balls/dusk_ball": {
+    "criteria": {
+      "has_green_apricorn": "2024-12-16 14:21:21 +0000"
+    },
+    "done": false
+  },
+  "cobblemon:recipes/balls/love_ball": {
+    "criteria": {
+      "has_pink_apricorn": "2024-12-16 14:21:02 +0000"
+    },
+    "done": false
+  },
+  "cobblemon:recipes/agriculture/green_apricorn_smelt_to_dye": {
+    "criteria": {
+      "has_apricorn": "2024-12-16 14:21:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
       "has_log": "2024-12-16 14:08:27 +0000"
     },
     "done": true
   },
+  "cobblemon:harvest_apricorn_seed": {
+    "criteria": {
+      "check_inv": "2024-12-16 14:22:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/diorite_wall": {
     "criteria": {
       "has_diorite": "2024-12-16 14:01:49 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/balls/nest_ball": {
+    "criteria": {
+      "has_green_apricorn": "2024-12-16 14:21:21 +0000"
+    },
+    "done": false
+  },
+  "cobblemon:recipes/balls/safari_ball": {
+    "criteria": {
+      "has_green_apricorn": "2024-12-16 14:21:21 +0000"
+    },
+    "done": false
+  },
+  "cobblemon:recipes/balls/roseate_ball": {
+    "criteria": {
+      "has_pink_apricorn": "2024-12-16 14:21:02 +0000"
     },
     "done": true
   },
@@ -841,6 +900,12 @@
     },
     "done": true
   },
+  "cobblemon:recipes/balls/verdant_ball": {
+    "criteria": {
+      "has_green_apricorn": "2024-12-16 14:21:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_logs": "2024-12-16 14:08:07 +0000"
@@ -874,6 +939,12 @@
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2024-12-16 14:08:07 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/agriculture/pink_apricorn_smelt_to_dye": {
+    "criteria": {
+      "has_apricorn": "2024-12-16 14:21:02 +0000"
     },
     "done": true
   },
