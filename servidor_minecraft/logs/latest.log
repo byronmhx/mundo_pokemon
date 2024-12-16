@@ -1449,3 +1449,6 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [16Dec2024 14:10:02.964] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/cobblemon/mod/common/entity/pokeball/EmptyPokeBallEntity$CaptureState
 [16Dec2024 14:10:03.061] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/ProjectileImpactEvent$ImpactResult
 [16Dec2024 14:10:06.113] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/cobblemon/mod/common/api/pokeball/catching/CatchRateModifier$Behavior
+[16Dec2024 14:14:49.318] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-243, y=66, z=-1594} BlockPos{x=-243, y=68, z=-1595}
+[16Dec2024 14:20:29.309] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/item/UseAnim
+[16Dec2024 14:22:13.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: byronmhx has made the advancement [Doing my Part]
