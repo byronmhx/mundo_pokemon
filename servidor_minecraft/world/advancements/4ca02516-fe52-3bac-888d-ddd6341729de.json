@@ -5,6 +5,14 @@
     },
     "done": true
   },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:taiga": "2024-12-13 02:25:14 +0000",
+      "minecraft:river": "2024-12-13 03:13:09 +0000",
+      "minecraft:forest": "2024-12-13 02:27:14 +0000"
+    },
+    "done": false
+  },
   "cobblemon:root": {
     "criteria": {
       "picked_starter": "2024-12-13 02:30:58 +0000"
@@ -17,16 +25,471 @@
     },
     "done": true
   },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:taiga": "2024-12-13 02:25:14 +0000",
-      "minecraft:forest": "2024-12-13 02:27:14 +0000"
-    },
-    "done": false
-  },
   "cobblepedia:grant_cobblepedia": {
     "criteria": {
       "picked_starter": "2024-12-13 02:30:58 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:healing_machine": {
+    "criteria": {
+      "use_healing_machine": "2024-12-13 02:48:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-12-13 02:49:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2024-12-13 02:50:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2024-12-13 02:50:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2024-12-13 02:50:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2024-12-13 02:50:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2024-12-13 02:50:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-13 02:50:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-13 02:50:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2024-12-13 02:50:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-13 02:50:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2024-12-13 02:50:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-13 02:50:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2024-12-13 02:50:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2024-12-13 02:52:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2024-12-13 02:52:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_stick": "2024-12-13 02:52:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2024-12-13 02:52:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2024-12-13 02:52:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2024-12-13 02:52:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2024-12-13 02:52:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2024-12-13 03:01:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2024-12-13 03:01:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2024-12-13 03:01:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2024-12-13 03:02:15 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/transportation/apricorn_boat": {
+    "criteria": {
+      "in_water": "2024-12-13 03:03:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2024-12-13 03:03:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2024-12-13 03:03:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2024-12-13 03:03:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2024-12-13 03:03:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2024-12-13 03:03:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2024-12-13 03:03:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2024-12-13 03:03:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2024-12-13 03:03:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2024-12-13 03:03:26 +0000"
+    },
+    "done": true
+  },
+  "cobblepedia:recipes/cobblepedia": {
+    "criteria": {
+      "has_apricorn": "2024-12-13 03:05:26 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/balls/heal_ball": {
+    "criteria": {
+      "has_pink_apricorn": "2024-12-13 03:05:26 +0000"
+    },
+    "done": false
+  },
+  "cobblemon:recipes/balls/dream_ball": {
+    "criteria": {
+      "has_pink_apricorn": "2024-12-13 03:05:26 +0000"
+    },
+    "done": false
+  },
+  "cobblemon:recipes/balls/love_ball": {
+    "criteria": {
+      "has_pink_apricorn": "2024-12-13 03:05:26 +0000"
+    },
+    "done": false
+  },
+  "cobblemon:recipes/balls/level_ball": {
+    "criteria": {
+      "has_pink_apricorn": "2024-12-13 03:05:26 +0000"
+    },
+    "done": false
+  },
+  "cobblemon:harvest_apricorn": {
+    "criteria": {
+      "check_inv": "2024-12-13 03:05:26 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/balls/roseate_ball": {
+    "criteria": {
+      "has_pink_apricorn": "2024-12-13 03:05:26 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:any_plant": {
+    "criteria": {
+      "check_inv": "2024-12-13 03:05:26 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/agriculture/pink_apricorn_smelt_to_dye": {
+    "criteria": {
+      "has_apricorn": "2024-12-13 03:05:26 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:craft_base_balls": {
+    "criteria": {
+      "poke_ball": "2024-12-13 03:09:27 +0000"
+    },
+    "done": false
+  },
+  "cobblemon:craft_all_balls": {
+    "criteria": {
+      "poke_ball": "2024-12-13 03:09:27 +0000"
+    },
+    "done": false
+  },
+  "cobblemon:craft_poke_ball": {
+    "criteria": {
+      "requirement": "2024-12-13 03:09:27 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:first_catch": {
+    "criteria": {
+      "catch": "2024-12-13 03:10:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2024-12-16 01:43:33 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:obtain_berry": {
+    "criteria": {
+      "check_inv": "2024-12-16 01:58:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2024-12-16 01:37:46 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:obtain_all_berries": {
+    "criteria": {
+      "obtain_chesto_berry": "2024-12-16 01:58:18 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2024-12-16 01:43:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2024-12-16 01:43:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2024-12-16 01:37:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2024-12-16 01:43:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2024-12-16 01:43:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2024-12-16 01:43:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2024-12-16 01:43:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2024-12-16 01:45:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone": {
+    "criteria": {
+      "has_cobblestone": "2024-12-16 01:43:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-12-16 01:57:40 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/agriculture/mulch_base": {
+    "criteria": {
+      "has_berry": "2024-12-16 01:58:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2024-12-16 01:45:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2024-12-16 01:43:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2024-12-16 01:37:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2024-12-16 01:43:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2024-12-16 01:42:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2024-12-16 01:49:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2024-12-16 01:45:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2024-12-16 01:43:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2024-12-16 01:43:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_chicken": "2024-12-16 01:57:40 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2024-12-16 01:43:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2024-12-16 01:43:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2024-12-16 01:43:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2024-12-16 01:49:00 +0000"
     },
     "done": true
   },
