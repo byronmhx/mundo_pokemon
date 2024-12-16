@@ -8,36 +8,40 @@
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 6,
+    "totalCaptureCount": 9,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 1,
-    "totalBattleVictoryCount": 21,
+    "totalBattleVictoryCount": 35,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 21,
+    "totalPvWBattleVictoryCount": 35,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 0,
     "totalTypeCaptureCounts": {
-      "normal": 4,
+      "normal": 6,
       "flying": 3,
       "electric": 1,
       "dark": 1,
       "ice": 1,
-      "grass": 1
+      "grass": 1,
+      "fire": 1
     },
     "totalDefeatedCounts": {
-      "cobblemon:zigzagoon": 2,
-      "cobblemon:rookidee": 1,
+      "cobblemon:zigzagoon": 3,
+      "cobblemon:rookidee": 2,
       "cobblemon:kakuna": 1,
       "cobblemon:bunnelby": 1,
       "cobblemon:rattata": 1,
-      "cobblemon:starly": 2,
+      "cobblemon:starly": 4,
       "cobblemon:murkrow": 2,
       "cobblemon:linoone": 1,
       "cobblemon:lopunny": 1,
       "cobblemon:lechonk": 1,
       "cobblemon:teddiursa": 1,
-      "cobblemon:buneary": 1
+      "cobblemon:buneary": 2,
+      "cobblemon:voltorb": 1,
+      "cobblemon:pineco": 2,
+      "cobblemon:fletchling": 3
     },
     "aspectsCollected": {}
   }

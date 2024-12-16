@@ -1486,3 +1486,4 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [16Dec2024 02:07:08.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [byronmhx: Teleported byronmhx to Katvi_11]
 [16Dec2024 02:10:36.279] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 7715db64-02cd-4990-8d6b-593f051400ef
 [16Dec2024 02:10:36.280] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 7715db64-02cd-4990-8d6b-593f051400ef
+[16Dec2024 02:15:48.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [byronmhx: Teleported Katvi_11 to byronmhx]
