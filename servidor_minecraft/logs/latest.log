@@ -1482,3 +1482,7 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [16Dec2024 01:58:18.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Katvi_11 has made the advancement [Very Berry]
 [16Dec2024 01:58:46.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <byronmhx> <3
 [16Dec2024 01:59:41.525] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: byronmhx has made the advancement [Very Berry]
+[16Dec2024 02:04:16.631] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: byronmhx has made the advancement [Full House]
+[16Dec2024 02:07:08.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [byronmhx: Teleported byronmhx to Katvi_11]
+[16Dec2024 02:10:36.279] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 7715db64-02cd-4990-8d6b-593f051400ef
+[16Dec2024 02:10:36.280] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 7715db64-02cd-4990-8d6b-593f051400ef

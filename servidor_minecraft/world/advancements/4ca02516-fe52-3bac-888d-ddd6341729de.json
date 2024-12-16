@@ -339,7 +339,10 @@
   },
   "cobblemon:obtain_all_berries": {
     "criteria": {
-      "obtain_chesto_berry": "2024-12-16 01:58:18 +0000"
+      "obtain_aspear_berry": "2024-12-16 02:01:47 +0000",
+      "obtain_chesto_berry": "2024-12-16 01:58:18 +0000",
+      "obtain_rindo_berry": "2024-12-16 02:01:51 +0000",
+      "obtain_chople_berry": "2024-12-16 02:06:13 +0000"
     },
     "done": false
   },
@@ -376,6 +379,12 @@
   "minecraft:recipes/decorations/furnace": {
     "criteria": {
       "has_cobblestone": "2024-12-16 01:43:33 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/consumables/berry_juice": {
+    "criteria": {
+      "has_berries": "2024-12-16 02:01:51 +0000"
     },
     "done": true
   },
