@@ -7842,3 +7842,262 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [19Dec2024 01:54:21.434] [Worker-Main-80/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-82
 [19Dec2024 01:54:21.435] [dimthread_server_overworld/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-83
 [19Dec2024 01:54:21.435] [IO-Worker-83/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-84
+[19Dec2024 01:54:41.050] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Dec2024 01:54:41.055] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Dec2024 01:54:48.031] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[19Dec2024 01:54:48.031] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[19Dec2024 01:54:48.031] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[19Dec2024 01:55:01.830] [Server thread/INFO] [Easy NPC/]: Opening menu 85514093-26c8-435d-94c9-1b25795512c7 for npc e39ed076-cbd6-4a01-8776-65dd1b02b22a and player ServerPlayer['byronmhx'/472, l='ServerLevel[world]', x=-187.03, y=63.00, z=-1654.88] with DialogMenuHandler{displayName=literal{Alex}[style={color=#FFFFFF}]}
+[19Dec2024 01:55:04.247] [Server thread/INFO] [Easy NPC/]: Opening menu 6e75c89b-e630-44f2-8d19-01d934350cf7 for npc e39ed076-cbd6-4a01-8776-65dd1b02b22a and player ServerPlayer['byronmhx'/472, l='ServerLevel[world]', x=-186.90, y=63.00, z=-1655.04] with DialogMenuHandler{displayName=literal{Alex}[style={color=#FFFFFF}]}
+[19Dec2024 01:55:07.628] [Server thread/INFO] [Easy NPC/]: Opening menu d9160f23-169b-4948-9a9d-e163cf942ad6 for npc e39ed076-cbd6-4a01-8776-65dd1b02b22a and player ServerPlayer['byronmhx'/472, l='ServerLevel[world]', x=-186.90, y=63.00, z=-1655.04] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[Alex]}]
+[19Dec2024 01:55:08.699] [Server thread/INFO] [Easy NPC/]: Opening menu 25d51504-81a8-4369-90dd-7027f08bee34 for npc e39ed076-cbd6-4a01-8776-65dd1b02b22a and player ServerPlayer['byronmhx'/472, l='ServerLevel[world]', x=-186.90, y=63.00, z=-1655.04] with ConfigurationMenu.BASIC_ACTION[translation{key='text.easy_npc.config.basic_action.title', args=[Alex]}]
+[19Dec2024 01:55:09.951] [Server thread/INFO] [Easy NPC/]: Opening menu d6703b40-9a25-4599-925d-c993f11d1dc7 for npc e39ed076-cbd6-4a01-8776-65dd1b02b22a and player ServerPlayer['byronmhx'/472, l='ServerLevel[world]', x=-186.90, y=63.00, z=-1655.04] with ConfigurationMenu.DIALOG_ACTION[translation{key='text.easy_npc.config.dialog_action.title', args=[Alex]}]
+[19Dec2024 01:55:11.159] [Server thread/INFO] [Easy NPC/]: Opening menu f30653c8-38ef-4516-93f3-4f8cab845990 for npc e39ed076-cbd6-4a01-8776-65dd1b02b22a and player ServerPlayer['byronmhx'/472, l='ServerLevel[world]', x=-186.90, y=63.00, z=-1655.04] with EditorMenuHandler{editorType=ACTION_DATA, easyNPC=HumanoidSlim['Alex'/1025, l='ServerLevel[world]', x=-188.50, y=63.00, z=-1656.50], screenData=ScreenData[uuid=e39ed076-cbd6-4a01-8776-65dd1b02b22a, dialogId=00000000-0000-0000-0000-000000000000, dialogButtonId=00000000-0000-0000-0000-000000000000, actionDataEntryId=null, pageIndex=0, additionalData={ActionEventData:{ActionEventSet:{ON_BUTTON_CLICK:[],ON_CLOSE_DIALOG:[{Cmd:"/give @initiator cobblemon:poke_ball",Type:"COMMAND"}],ON_INTERACTION:[{Type:"OPEN_DEFAULT_DIALOG"},{Type:"OPEN_TRADING_SCREEN"}]}},ActionEventType:"ON_CLOSE_DIALOG",ConfigurationType:"DIALOG_ACTION",DialogData:{Default:"question",DialogDataSet:[{Buttons:[],Label:"yes_answer",Name:"Yes Dialog",Texts:[{Text:"Crea tu camino"}]},{Buttons:[{Actions:[{Cmd:"yes_answer",Type:"OPEN_NAMED_DIALOG"}],Label:"yes_button",Name:"Aceptar",Type:"DEFAULT"},{Actions:[{Cmd:"no_answer",Type:"OPEN_NAMED_DIALOG"}],Label:"no_button",Name:"No gracias",Type:"DEFAULT"}],Label:"question",Name:"Question Dialog",Texts:[{Text:"Hola @initiator, soy @npc toma esto para que inicies tu viaje en este mundo."}]},{Buttons:[],Label:"no_answer",Name:"No Dialog",Texts:[{Text:"Vuelve pronto"}]},{Buttons:[{Actions:[],Name:"Button 484",Type:"DEFAULT"}],Name:"Dialog 189",Texts:[{Text:"Dialog text"}]}],Type:"STANDARD"},EditorType:"NONE"}]}
+[19Dec2024 01:55:13.247] [Server thread/INFO] [Easy NPC/]: Opening menu e8146fef-f07f-4c3b-a24f-6022ae3f671c for npc e39ed076-cbd6-4a01-8776-65dd1b02b22a and player ServerPlayer['byronmhx'/472, l='ServerLevel[world]', x=-186.90, y=63.00, z=-1655.04] with EditorMenuHandler{editorType=ACTION_DATA, easyNPC=HumanoidSlim['Alex'/1025, l='ServerLevel[world]', x=-188.50, y=63.00, z=-1656.50], screenData=ScreenData[uuid=e39ed076-cbd6-4a01-8776-65dd1b02b22a, dialogId=00000000-0000-0000-0000-000000000000, dialogButtonId=00000000-0000-0000-0000-000000000000, actionDataEntryId=null, pageIndex=0, additionalData={ActionEventData:{ActionEventSet:{ON_BUTTON_CLICK:[],ON_CLOSE_DIALOG:[],ON_INTERACTION:[{Type:"OPEN_DEFAULT_DIALOG"},{Type:"OPEN_TRADING_SCREEN"}]}},ActionEventType:"ON_CLOSE_DIALOG",ConfigurationType:"DIALOG_ACTION",DialogData:{Default:"question",DialogDataSet:[{Buttons:[],Label:"yes_answer",Name:"Yes Dialog",Texts:[{Text:"Crea tu camino"}]},{Buttons:[{Actions:[{Cmd:"yes_answer",Type:"OPEN_NAMED_DIALOG"}],Label:"yes_button",Name:"Aceptar",Type:"DEFAULT"},{Actions:[{Cmd:"no_answer",Type:"OPEN_NAMED_DIALOG"}],Label:"no_button",Name:"No gracias",Type:"DEFAULT"}],Label:"question",Name:"Question Dialog",Texts:[{Text:"Hola @initiator, soy @npc toma esto para que inicies tu viaje en este mundo."}]},{Buttons:[],Label:"no_answer",Name:"No Dialog",Texts:[{Text:"Vuelve pronto"}]},{Buttons:[{Actions:[],Name:"Button 484",Type:"DEFAULT"}],Name:"Dialog 189",Texts:[{Text:"Dialog text"}]}],Type:"STANDARD"},EditorType:"NONE"}]}
+[19Dec2024 01:55:14.777] [Server thread/INFO] [Easy NPC/]: Opening menu 485c0984-95cb-40ac-86d8-125eebe94c8b for npc e39ed076-cbd6-4a01-8776-65dd1b02b22a and player ServerPlayer['byronmhx'/472, l='ServerLevel[world]', x=-186.90, y=63.00, z=-1655.04] with DialogMenuHandler{displayName=literal{Alex}[style={color=#FFFFFF}]}
+[19Dec2024 01:55:15.700] [Server thread/INFO] [Easy NPC/]: Opening menu bcf0ee06-e638-4b9f-94b8-6fe4a038211d for npc e39ed076-cbd6-4a01-8776-65dd1b02b22a and player ServerPlayer['byronmhx'/472, l='ServerLevel[world]', x=-186.90, y=63.00, z=-1655.04] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[Alex]}]
+[19Dec2024 01:55:18.082] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[19Dec2024 01:55:18.082] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[19Dec2024 01:55:18.082] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[19Dec2024 01:55:19.200] [Server thread/INFO] [Easy NPC/]: Opening menu 52be6d9f-c6d1-43e5-a959-b6dea380f072 for npc e39ed076-cbd6-4a01-8776-65dd1b02b22a and player ServerPlayer['byronmhx'/472, l='ServerLevel[world]', x=-186.90, y=63.00, z=-1655.04] with ConfigurationMenu.ADVANCED_DIALOG[translation{key='text.easy_npc.config.advanced_dialog.title', args=[Alex]}]
+[19Dec2024 01:55:21.701] [Server thread/INFO] [Easy NPC/]: Opening menu fdcf7883-82fc-4e9d-90b9-270067e0ceef for npc e39ed076-cbd6-4a01-8776-65dd1b02b22a and player ServerPlayer['byronmhx'/472, l='ServerLevel[world]', x=-186.90, y=63.00, z=-1655.04] with ConfigurationMenu.YES_NO_DIALOG[translation{key='text.easy_npc.config.yes_no_dialog.title', args=[Alex]}]
+[19Dec2024 01:55:36.285] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: byronmhx lost connection: Disconnected
+[19Dec2024 01:55:36.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: byronmhx left the game
+[19Dec2024 01:55:36.292] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: good bye byronmhx
+[19Dec2024 01:55:36.292] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: remove synced player e09226c3-33b4-38ad-ac36-a79de7a00c20
+[19Dec2024 01:55:48.132] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[19Dec2024 01:55:48.132] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[19Dec2024 01:55:48.132] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[19Dec2024 01:56:18.182] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[19Dec2024 01:56:18.182] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[19Dec2024 01:56:18.182] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[19Dec2024 01:56:36.340] [Worker-Main-82/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-82 shutdown
+[19Dec2024 01:56:48.232] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[19Dec2024 01:56:48.232] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[19Dec2024 01:56:48.232] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[19Dec2024 01:57:10.356] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 24 messages to dispatch.
+[19Dec2024 01:57:10.382] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModData' to 'fml:handshake' sequence 0
+[19Dec2024 01:57:10.432] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModList' to 'fml:handshake' sequence 1
+[19Dec2024 01:57:10.483] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:command_argument_type' to 'fml:handshake' sequence 2
+[19Dec2024 01:57:10.533] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 1
+[19Dec2024 01:57:10.534] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 1 of type net.minecraftforge.network.HandshakeMessages$C2SModListReply
+[19Dec2024 01:57:10.534] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:recipe_serializer' to 'fml:handshake' sequence 3
+[19Dec2024 01:57:10.534] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client connection with modlist [saturn, easy_npc, kuma_api, recipeessentials, brute_force_rendering_culling, gpumemleakfix, waystones, structureessentials, fastsuite, journeymap, placebo, modernfix, jei, mixinextras, achiopt, balm, memoryleakfix, forge, tlskincape, embeddium, rubidium, embeddiumplus, minecraft, moonlight, jade, culllessleaves, smoothboot, fastpaintings, betterfpsdist, kotlinforforge, patchouli, oculus, megamons, cobblemizer, bocchium, cobblemon, entityculling, doespotatotick, cobblepedia, noisium, canary, betterchunkloading, armourers_workshop, immediatelyfast, coroutil, fastfurnace, architectury, ftblibrary, octolib, nerb, ftbteams, ftbchunks, ftbquests, ftbxmodcompat, ferritecore, dimthread, cupboard, mobtimizations, badoptimizations, cobbledollars]
+[19Dec2024 01:57:10.534] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'easy_npc:network' : Version test of '23' from client : ACCEPTED
+[19Dec2024 01:57:10.534] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'architectury:network' : Version test of '1' from client : ACCEPTED
+[19Dec2024 01:57:10.534] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'jei:channel' : Version test of '1.0.0' from client : ACCEPTED
+[19Dec2024 01:57:10.534] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Version test of 'FML3' from client : ACCEPTED
+[19Dec2024 01:57:10.534] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:version' : Version test of '1' from client : ACCEPTED
+[19Dec2024 01:57:10.534] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'modernfix:main' : Version test of '1' from client : ACCEPTED
+[19Dec2024 01:57:10.534] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'placebo:placebo' : Version test of '1.0.0' from client : ACCEPTED
+[19Dec2024 01:57:10.534] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'worldinfo:world_id' : Version test of '1' from client : ACCEPTED
+[19Dec2024 01:57:10.534] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:admin_req' : Version test of '1' from client : ACCEPTED
+[19Dec2024 01:57:10.534] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:waypoint' : Version test of '1' from client : ACCEPTED
+[19Dec2024 01:57:10.534] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:mp_options_req' : Version test of '1' from client : ACCEPTED
+[19Dec2024 01:57:10.534] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Version test of 'FML3' from client : ACCEPTED
+[19Dec2024 01:57:10.534] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:tier_sorting' : Version test of '1.0' from client : ACCEPTED
+[19Dec2024 01:57:10.534] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Version test of 'FML3' from client : ACCEPTED
+[19Dec2024 01:57:10.534] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:admin_save' : Version test of '1' from client : ACCEPTED
+[19Dec2024 01:57:10.534] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:player_loc' : Version test of '1' from client : ACCEPTED
+[19Dec2024 01:57:10.534] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'patchouli:main' : Version test of '1' from client : ACCEPTED
+[19Dec2024 01:57:10.534] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:teleport_req' : Version test of '1' from client : ACCEPTED
+[19Dec2024 01:57:10.534] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'armourers_workshop:play' : Version test of '3.12' from client : ACCEPTED
+[19Dec2024 01:57:10.534] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Version test of 'FML3' from client : ACCEPTED
+[19Dec2024 01:57:10.535] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:common' : Version test of '1' from client : ACCEPTED
+[19Dec2024 01:57:10.535] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Version test of 'FML3' from client : ACCEPTED
+[19Dec2024 01:57:10.535] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cobblemon:main' : Version test of '1' from client : ACCEPTED
+[19Dec2024 01:57:10.535] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Version test of '1.1' from client : ACCEPTED
+[19Dec2024 01:57:10.535] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:perm_req' : Version test of '1' from client : ACCEPTED
+[19Dec2024 01:57:10.535] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'jade:networking' : Version test of '2' from client : ACCEPTED
+[19Dec2024 01:57:10.535] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'moonlight:channel' : Version test of '0' from client : ACCEPTED
+[19Dec2024 01:57:10.535] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'waystones:network' : Version test of '1.0' from client : ACCEPTED
+[19Dec2024 01:57:10.535] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from client
+[19Dec2024 01:57:10.535] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Accepted client connection mod list
+[19Dec2024 01:57:10.582] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:sound_event' to 'fml:handshake' sequence 4
+[19Dec2024 01:57:10.583] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 2
+[19Dec2024 01:57:10.583] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 2 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[19Dec2024 01:57:10.583] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[19Dec2024 01:57:10.627] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 3
+[19Dec2024 01:57:10.627] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 3 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[19Dec2024 01:57:10.627] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[19Dec2024 01:57:10.633] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:particle_type' to 'fml:handshake' sequence 5
+[19Dec2024 01:57:10.684] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:villager_profession' to 'fml:handshake' sequence 6
+[19Dec2024 01:57:10.732] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:item' to 'fml:handshake' sequence 7
+[19Dec2024 01:57:10.783] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:potion' to 'fml:handshake' sequence 8
+[19Dec2024 01:57:10.833] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:painting_variant' to 'fml:handshake' sequence 9
+[19Dec2024 01:57:10.875] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 4
+[19Dec2024 01:57:10.875] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 4 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[19Dec2024 01:57:10.875] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[19Dec2024 01:57:10.876] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 5
+[19Dec2024 01:57:10.876] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 5 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[19Dec2024 01:57:10.876] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[19Dec2024 01:57:10.877] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 6
+[19Dec2024 01:57:10.877] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 6 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[19Dec2024 01:57:10.877] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[19Dec2024 01:57:10.882] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:fluid_type' to 'fml:handshake' sequence 10
+[19Dec2024 01:57:10.932] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block_entity_type' to 'fml:handshake' sequence 11
+[19Dec2024 01:57:10.965] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 7
+[19Dec2024 01:57:10.965] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 7 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[19Dec2024 01:57:10.965] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[19Dec2024 01:57:10.966] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 8
+[19Dec2024 01:57:10.966] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 8 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[19Dec2024 01:57:10.966] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[19Dec2024 01:57:10.966] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 9
+[19Dec2024 01:57:10.966] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 9 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[19Dec2024 01:57:10.966] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[19Dec2024 01:57:10.973] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 10
+[19Dec2024 01:57:10.973] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 10 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[19Dec2024 01:57:10.973] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[19Dec2024 01:57:10.983] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:display_contexts' to 'fml:handshake' sequence 12
+[19Dec2024 01:57:11.024] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 11
+[19Dec2024 01:57:11.025] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 11 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[19Dec2024 01:57:11.025] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[19Dec2024 01:57:11.033] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block' to 'fml:handshake' sequence 13
+[19Dec2024 01:57:11.075] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 12
+[19Dec2024 01:57:11.075] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 12 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[19Dec2024 01:57:11.075] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[19Dec2024 01:57:11.082] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:entity_data_serializers' to 'fml:handshake' sequence 14
+[19Dec2024 01:57:11.132] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:mob_effect' to 'fml:handshake' sequence 15
+[19Dec2024 01:57:11.132] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 13
+[19Dec2024 01:57:11.132] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 13 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[19Dec2024 01:57:11.132] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[19Dec2024 01:57:11.173] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 14
+[19Dec2024 01:57:11.173] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 14 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[19Dec2024 01:57:11.173] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[19Dec2024 01:57:11.183] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:stat_type' to 'fml:handshake' sequence 16
+[19Dec2024 01:57:11.224] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 15
+[19Dec2024 01:57:11.224] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 15 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[19Dec2024 01:57:11.224] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[19Dec2024 01:57:11.233] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:menu' to 'fml:handshake' sequence 17
+[19Dec2024 01:57:11.274] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 16
+[19Dec2024 01:57:11.274] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 16 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[19Dec2024 01:57:11.274] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[19Dec2024 01:57:11.284] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:enchantment' to 'fml:handshake' sequence 18
+[19Dec2024 01:57:11.325] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 17
+[19Dec2024 01:57:11.325] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 17 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[19Dec2024 01:57:11.325] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[19Dec2024 01:57:11.332] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:fluid' to 'fml:handshake' sequence 19
+[19Dec2024 01:57:11.375] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 18
+[19Dec2024 01:57:11.375] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 18 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[19Dec2024 01:57:11.375] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[19Dec2024 01:57:11.382] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:entity_type' to 'fml:handshake' sequence 20
+[19Dec2024 01:57:11.433] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config journeymap-server.toml' to 'fml:handshake' sequence 21
+[19Dec2024 01:57:11.444] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 19
+[19Dec2024 01:57:11.444] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 19 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[19Dec2024 01:57:11.444] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[19Dec2024 01:57:11.483] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config jei-server.toml' to 'fml:handshake' sequence 22
+[19Dec2024 01:57:11.533] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config forge-server.toml' to 'fml:handshake' sequence 23
+[19Dec2024 01:57:11.680] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 20
+[19Dec2024 01:57:11.680] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 20 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[19Dec2024 01:57:11.680] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[19Dec2024 01:57:11.687] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 21
+[19Dec2024 01:57:11.687] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 21 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[19Dec2024 01:57:11.687] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[19Dec2024 01:57:11.688] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 22
+[19Dec2024 01:57:11.688] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 22 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[19Dec2024 01:57:11.688] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[19Dec2024 01:57:11.689] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 23
+[19Dec2024 01:57:11.689] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 23 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[19Dec2024 01:57:11.690] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[19Dec2024 01:57:11.733] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Handshake complete!
+[19Dec2024 01:57:11.815] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: byronmhx[/100.97.248.86:50506] logged in with entity id 1751 at (-186.89631661785654, 63.0, -1655.0377246895562)
+[19Dec2024 01:57:11.816] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@685a0df7 into net.minecraft.network.Connection@1abc0f05
+[19Dec2024 01:57:11.816] [Server thread/DEBUG] [ModernFix/]: Sending ID correction packet to client with 62 classes
+[19Dec2024 01:57:11.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: byronmhx joined the game
+[19Dec2024 01:57:12.074] [Server thread/DEBUG] [FTB Teams/]: player e09226c3-33b4-38ad-ac36-a79de7a00c20 logged in, player team = byronmhx#e09226c3
+[19Dec2024 01:57:12.074] [Server thread/DEBUG] [FTB Teams/]: syncing player team data, all = false
+[19Dec2024 01:57:12.094] [Server thread/DEBUG] [FTB Teams/]: updating team presence
+[19Dec2024 01:57:12.094] [Server thread/DEBUG] [FTB Teams/]: sending team login event for e09226c3-33b4-38ad-ac36-a79de7a00c20...
+[19Dec2024 01:57:12.095] [Server thread/DEBUG] [FTB Chunks/]: handling player team login: player = e09226c3-33b4-38ad-ac36-a79de7a00c20, team = e09226c3-33b4-38ad-ac36-a79de7a00c20
+[19Dec2024 01:57:12.095] [Server thread/DEBUG] [FTB Chunks/]: server config and team data sent to e09226c3-33b4-38ad-ac36-a79de7a00c20
+[19Dec2024 01:57:12.095] [Server thread/DEBUG] [FTB Chunks/]: claimed chunk data sent to e09226c3-33b4-38ad-ac36-a79de7a00c20
+[19Dec2024 01:57:12.095] [Server thread/DEBUG] [FTB Chunks/]: visible player list sent to e09226c3-33b4-38ad-ac36-a79de7a00c20
+[19Dec2024 01:57:12.096] [Server thread/DEBUG] [FTB Teams/]: team login event for e09226c3-33b4-38ad-ac36-a79de7a00c20 sent
+[19Dec2024 01:57:12.096] [Server thread/INFO] [Jade/]: Syncing config to byronmhx (e09226c3-33b4-38ad-ac36-a79de7a00c20)
+[19Dec2024 01:57:12.100] [Server thread/DEBUG] [moe.plushie.armourers_workshop.ArmourersWorkshop/]: welcome back byronmhx
+[19Dec2024 01:57:12.109] [Worker-Main-81/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-85
+[19Dec2024 01:57:13.836] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-86
+[19Dec2024 01:57:13.838] [IO-Worker-86/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-87
+[19Dec2024 01:57:18.282] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[19Dec2024 01:57:18.282] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[19Dec2024 01:57:18.285] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[19Dec2024 01:57:27.490] [Server thread/INFO] [Easy NPC/]: Opening menu f8eb64a3-7c1b-456c-a496-52b1cb6ecef3 for npc e39ed076-cbd6-4a01-8776-65dd1b02b22a and player ServerPlayer['byronmhx'/1751, l='ServerLevel[world]', x=-186.90, y=63.00, z=-1655.04] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[Alex]}]
+[19Dec2024 01:57:29.907] [Server thread/INFO] [Easy NPC/]: Opening menu 49044d80-d017-422f-ba6f-3a9455bb2490 for npc e39ed076-cbd6-4a01-8776-65dd1b02b22a and player ServerPlayer['byronmhx'/1751, l='ServerLevel[world]', x=-186.90, y=63.00, z=-1655.04] with ConfigurationMenu.ADVANCED_DIALOG[translation{key='text.easy_npc.config.advanced_dialog.title', args=[Alex]}]
+[19Dec2024 01:57:36.226] [Server thread/INFO] [Easy NPC/]: Open dialog editor with for dialog 5494af1f-14a8-3199-b996-8c3e9e2d4f79 for HumanoidSlim['Alex'/1025, l='ServerLevel[world]', x=-188.50, y=63.00, z=-1656.50] from ServerPlayer['byronmhx'/1751, l='ServerLevel[world]', x=-186.90, y=63.00, z=-1655.04]
+[19Dec2024 01:57:36.345] [Server thread/INFO] [Easy NPC/]: Opening menu dfef2e47-f793-420d-b27e-06e4e0561fd4 for npc e39ed076-cbd6-4a01-8776-65dd1b02b22a and player ServerPlayer['byronmhx'/1751, l='ServerLevel[world]', x=-186.90, y=63.00, z=-1655.04] with EditorMenuHandler{editorType=DIALOG, easyNPC=HumanoidSlim['Alex'/1025, l='ServerLevel[world]', x=-188.50, y=63.00, z=-1656.50], screenData=ScreenData[uuid=e39ed076-cbd6-4a01-8776-65dd1b02b22a, dialogId=5494af1f-14a8-3199-b996-8c3e9e2d4f79, dialogButtonId=null, actionDataEntryId=null, pageIndex=0, additionalData={DialogData:{Default:"question",DialogDataSet:[{Buttons:[],Label:"yes_answer",Name:"Yes Dialog",Texts:[{Text:"Crea tu camino"}]},{Buttons:[{Actions:[{Cmd:"yes_answer",Type:"OPEN_NAMED_DIALOG"}],Label:"yes_button",Name:"Aceptar",Type:"DEFAULT"},{Actions:[{Cmd:"no_answer",Type:"OPEN_NAMED_DIALOG"}],Label:"no_button",Name:"No gracias",Type:"DEFAULT"}],Label:"question",Name:"Question Dialog",Texts:[{Text:"Hola @initiator, soy @npc toma esto para que inicies tu viaje en este mundo."}]},{Buttons:[],Label:"no_answer",Name:"No Dialog",Texts:[{Text:"Vuelve pronto"}]},{Buttons:[{Actions:[],Name:"Button 484",Type:"DEFAULT"}],Name:"Dialog 189",Texts:[{Text:"Dialog text"}]}],Type:"STANDARD"}}]}
+[19Dec2024 01:57:37.841] [Server thread/INFO] [Easy NPC/]: Removed dialog 5494af1f-14a8-3199-b996-8c3e9e2d4f79 for HumanoidSlim['Alex'/1025, l='ServerLevel[world]', x=-188.50, y=63.00, z=-1656.50] from ServerPlayer['byronmhx'/1751, l='ServerLevel[world]', x=-186.90, y=63.00, z=-1655.04]
+[19Dec2024 01:57:37.946] [Server thread/INFO] [Easy NPC/]: Opening menu 9bf99b80-1d03-4804-b7c0-e4715524e6b7 for npc e39ed076-cbd6-4a01-8776-65dd1b02b22a and player ServerPlayer['byronmhx'/1751, l='ServerLevel[world]', x=-186.90, y=63.00, z=-1655.04] with ConfigurationMenu.ADVANCED_DIALOG[translation{key='text.easy_npc.config.advanced_dialog.title', args=[Alex]}]
+[19Dec2024 01:57:40.395] [Server thread/INFO] [Easy NPC/]: Open dialog editor with for dialog 40d22a3d-7dc2-3aa3-9cfe-e4cca963179d for HumanoidSlim['Alex'/1025, l='ServerLevel[world]', x=-188.50, y=63.00, z=-1656.50] from ServerPlayer['byronmhx'/1751, l='ServerLevel[world]', x=-186.90, y=63.00, z=-1655.04]
+[19Dec2024 01:57:40.500] [Server thread/INFO] [Easy NPC/]: Opening menu 730cb946-fdce-4126-9eae-f87f49390c63 for npc e39ed076-cbd6-4a01-8776-65dd1b02b22a and player ServerPlayer['byronmhx'/1751, l='ServerLevel[world]', x=-186.90, y=63.00, z=-1655.04] with EditorMenuHandler{editorType=DIALOG, easyNPC=HumanoidSlim['Alex'/1025, l='ServerLevel[world]', x=-188.50, y=63.00, z=-1656.50], screenData=ScreenData[uuid=e39ed076-cbd6-4a01-8776-65dd1b02b22a, dialogId=40d22a3d-7dc2-3aa3-9cfe-e4cca963179d, dialogButtonId=null, actionDataEntryId=null, pageIndex=0, additionalData={DialogData:{DialogDataSet:[{Buttons:[],Label:"yes_answer",Name:"Yes Dialog",Texts:[{Text:"Crea tu camino"}]},{Buttons:[],Label:"no_answer",Name:"No Dialog",Texts:[{Text:"Vuelve pronto"}]},{Buttons:[{Actions:[],Name:"Button 484",Type:"DEFAULT"}],Name:"Dialog 189",Texts:[{Text:"Dialog text"}]}],Type:"STANDARD"}}]}
+[19Dec2024 01:57:42.124] [Server thread/INFO] [Easy NPC/]: Removed dialog 40d22a3d-7dc2-3aa3-9cfe-e4cca963179d for HumanoidSlim['Alex'/1025, l='ServerLevel[world]', x=-188.50, y=63.00, z=-1656.50] from ServerPlayer['byronmhx'/1751, l='ServerLevel[world]', x=-186.90, y=63.00, z=-1655.04]
+[19Dec2024 01:57:42.229] [Server thread/INFO] [Easy NPC/]: Opening menu 3566a46a-cfb6-4261-afe9-31a01285e886 for npc e39ed076-cbd6-4a01-8776-65dd1b02b22a and player ServerPlayer['byronmhx'/1751, l='ServerLevel[world]', x=-186.90, y=63.00, z=-1655.04] with ConfigurationMenu.ADVANCED_DIALOG[translation{key='text.easy_npc.config.advanced_dialog.title', args=[Alex]}]
+[19Dec2024 01:57:43.525] [Server thread/INFO] [Easy NPC/]: Open dialog editor with for dialog e12e0a95-9e2b-304c-8c2a-e1edb866ae05 for HumanoidSlim['Alex'/1025, l='ServerLevel[world]', x=-188.50, y=63.00, z=-1656.50] from ServerPlayer['byronmhx'/1751, l='ServerLevel[world]', x=-186.90, y=63.00, z=-1655.04]
+[19Dec2024 01:57:43.646] [Server thread/INFO] [Easy NPC/]: Opening menu c17e4cd5-95f6-4e4b-8843-4b3c2757044f for npc e39ed076-cbd6-4a01-8776-65dd1b02b22a and player ServerPlayer['byronmhx'/1751, l='ServerLevel[world]', x=-186.90, y=63.00, z=-1655.04] with EditorMenuHandler{editorType=DIALOG, easyNPC=HumanoidSlim['Alex'/1025, l='ServerLevel[world]', x=-188.50, y=63.00, z=-1656.50], screenData=ScreenData[uuid=e39ed076-cbd6-4a01-8776-65dd1b02b22a, dialogId=e12e0a95-9e2b-304c-8c2a-e1edb866ae05, dialogButtonId=null, actionDataEntryId=null, pageIndex=0, additionalData={DialogData:{DialogDataSet:[{Buttons:[],Label:"no_answer",Name:"No Dialog",Texts:[{Text:"Vuelve pronto"}]},{Buttons:[{Actions:[],Name:"Button 484",Type:"DEFAULT"}],Name:"Dialog 189",Texts:[{Text:"Dialog text"}]}],Type:"STANDARD"}}]}
+[19Dec2024 01:57:44.938] [Server thread/INFO] [Easy NPC/]: Removed dialog e12e0a95-9e2b-304c-8c2a-e1edb866ae05 for HumanoidSlim['Alex'/1025, l='ServerLevel[world]', x=-188.50, y=63.00, z=-1656.50] from ServerPlayer['byronmhx'/1751, l='ServerLevel[world]', x=-186.90, y=63.00, z=-1655.04]
+[19Dec2024 01:57:45.062] [Server thread/INFO] [Easy NPC/]: Opening menu c5b942c0-19e2-4a40-96af-c496a1d534df for npc e39ed076-cbd6-4a01-8776-65dd1b02b22a and player ServerPlayer['byronmhx'/1751, l='ServerLevel[world]', x=-186.90, y=63.00, z=-1655.04] with ConfigurationMenu.ADVANCED_DIALOG[translation{key='text.easy_npc.config.advanced_dialog.title', args=[Alex]}]
+[19Dec2024 01:57:47.058] [Server thread/INFO] [Easy NPC/]: Opening menu 8a80ffb0-f1f5-44c5-834f-49971880c75c for npc e39ed076-cbd6-4a01-8776-65dd1b02b22a and player ServerPlayer['byronmhx'/1751, l='ServerLevel[world]', x=-186.90, y=63.00, z=-1655.04] with ConfigurationMenu.BASIC_DIALOG[translation{key='text.easy_npc.config.basic_dialog.title', args=[Alex]}]
+[19Dec2024 01:57:48.333] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[19Dec2024 01:57:48.333] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[19Dec2024 01:57:48.334] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[19Dec2024 01:58:15.585] [Worker-Main-80/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-80 shutdown
+[19Dec2024 01:58:18.383] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[19Dec2024 01:58:18.383] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[19Dec2024 01:58:18.384] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[19Dec2024 01:58:48.432] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[19Dec2024 01:58:48.433] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[19Dec2024 01:58:48.434] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[19Dec2024 01:59:15.585] [Worker-Main-81/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-81 shutdown
+[19Dec2024 01:59:18.482] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[19Dec2024 01:59:18.482] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[19Dec2024 01:59:18.483] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[19Dec2024 01:59:20.419] [Server thread/INFO] [Easy NPC/]: Opening menu 433f15ce-05ea-4543-89a6-4ed459a82c78 for npc e39ed076-cbd6-4a01-8776-65dd1b02b22a and player ServerPlayer['byronmhx'/1751, l='ServerLevel[world]', x=-186.50, y=63.00, z=-1654.95] with DialogMenuHandler{displayName=literal{Alex}[style={color=#FFFFFF}]}
+[19Dec2024 01:59:31.045] [Server thread/INFO] [Easy NPC/]: Opening menu b463ad3d-09ed-4d2c-972d-6aae57a7ac6e for npc e519a5c6-80ad-4181-958e-45e891f5027a and player ServerPlayer['byronmhx'/1751, l='ServerLevel[world]', x=-180.95, y=64.06, z=-1653.74] with DialogMenuHandler{displayName=literal{Enfermero}[style={color=#FFFFFF}]}
+[19Dec2024 01:59:32.037] [Server thread/INFO] [Easy NPC/]: Opening menu 33079b1d-965e-4484-8cd0-e8cd959d8069 for npc e519a5c6-80ad-4181-958e-45e891f5027a and player ServerPlayer['byronmhx'/1751, l='ServerLevel[world]', x=-180.95, y=64.06, z=-1653.74] with DialogMenuHandler{displayName=literal{Enfermero}[style={color=#FFFFFF}]}
+[19Dec2024 01:59:35.604] [Server thread/INFO] [Easy NPC/]: Opening menu 85af5b1a-9c2f-45a8-af27-dea2593aa9ec for npc e39ed076-cbd6-4a01-8776-65dd1b02b22a and player ServerPlayer['byronmhx'/1751, l='ServerLevel[world]', x=-185.49, y=63.00, z=-1655.28] with DialogMenuHandler{displayName=literal{Alex}[style={color=#FFFFFF}]}
+[19Dec2024 01:59:41.039] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-88
+[19Dec2024 01:59:41.039] [IO-Worker-88/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-89
+[19Dec2024 01:59:41.044] [IO-Worker-88/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-90
+[19Dec2024 01:59:41.051] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Dec2024 01:59:41.057] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Dec2024 01:59:48.533] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[19Dec2024 01:59:48.533] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[19Dec2024 01:59:48.533] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[19Dec2024 02:00:15.585] [Worker-Main-85/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-85 shutdown
+[19Dec2024 02:00:18.583] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[19Dec2024 02:00:18.583] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[19Dec2024 02:00:18.583] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[19Dec2024 02:00:19.374] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-91
+[19Dec2024 02:00:19.374] [Worker-Main-91/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-92
+[19Dec2024 02:00:19.374] [Worker-Main-91/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-93
+[19Dec2024 02:00:48.632] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[19Dec2024 02:00:48.632] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[19Dec2024 02:00:48.632] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[19Dec2024 02:01:18.682] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[19Dec2024 02:01:18.682] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[19Dec2024 02:01:18.682] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[19Dec2024 02:01:24.235] [Worker-Main-91/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-91 shutdown
+[19Dec2024 02:01:48.732] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[19Dec2024 02:01:48.733] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[19Dec2024 02:01:48.733] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[19Dec2024 02:02:18.782] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[19Dec2024 02:02:18.782] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[19Dec2024 02:02:18.782] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[19Dec2024 02:02:24.235] [Worker-Main-92/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-92 shutdown
+[19Dec2024 02:02:48.832] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[19Dec2024 02:02:48.832] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[19Dec2024 02:02:48.832] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[19Dec2024 02:03:18.882] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[19Dec2024 02:03:18.882] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[19Dec2024 02:03:18.882] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[19Dec2024 02:03:24.235] [Worker-Main-93/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-93 shutdown
+[19Dec2024 02:03:34.985] [dimthread_server_overworld/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-94
+[19Dec2024 02:03:34.986] [IO-Worker-94/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-95
+[19Dec2024 02:03:43.882] [dimthread_server_overworld/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-96
+[19Dec2024 02:03:43.882] [Worker-Main-96/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-97
+[19Dec2024 02:03:43.882] [Worker-Main-96/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-98
+[19Dec2024 02:03:48.931] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[19Dec2024 02:03:48.931] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[19Dec2024 02:03:48.931] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[19Dec2024 02:04:18.981] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[19Dec2024 02:04:18.981] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[19Dec2024 02:04:18.981] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
