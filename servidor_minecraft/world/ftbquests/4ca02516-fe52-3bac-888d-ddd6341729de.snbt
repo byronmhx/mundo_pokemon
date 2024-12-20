@@ -4,9 +4,7 @@
 	name: ""
 	lock: false
 	rewards_blocked: false
-	task_progress: {
-		01A2D0ACEC0D07D9: 1
-	}
+	task_progress: { }
 	started: {
 		01A2D0ACEC0D07D9: 1734669024054L
 		40130E9CE6203334: 1734669024054L
@@ -19,8 +17,6 @@
 		7E6FD58E88E5EF66: 1734669024054L
 		51184ED9D1F06DC5: 1734669024054L
 	}
-	claimed_rewards: {
-		"4ca02516fe523bac888dddd6341729de:664D0BC270AC2B5F": 1734669536301L
-	}
+	claimed_rewards: { }
 	player_data: { }
 }
