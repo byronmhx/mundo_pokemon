@@ -1786,3 +1786,6 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [20Dec2024 13:44:12.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [byronmhx: Set own game mode to Creative Mode]
 [20Dec2024 13:44:46.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [byronmhx: Editing Mode for 'byronmhx' Enabled]
 [20Dec2024 13:44:49.936] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/AbstractIllager$IllagerArmPose
+[20Dec2024 13:57:57.035] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: byronmhx lost connection: Disconnected
+[20Dec2024 13:57:57.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: byronmhx left the game
+[20Dec2024 13:57:57.086] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
