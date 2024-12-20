@@ -7,12 +7,21 @@
 	order_index: 0
 	quest_links: [ ]
 	quests: [{
+		description: ["&oTala arboles para conseguir el objetivo.&r"]
 		id: "184AE470C781CC22"
+		rewards: [{
+			count: 5
+			id: "7310319B5F7A9BB9"
+			item: "minecraft:iron_ingot"
+			type: "item"
+		}]
 		tasks: [{
+			count: 10L
 			id: "6D86103787248F46"
 			item: "minecraft:oak_log"
 			type: "item"
 		}]
+		title: "Consigue madera"
 		x: 1.0d
 		y: 0.5d
 	}]
