@@ -17,12 +17,19 @@
 			team_reward: false
 			type: "item"
 		}]
-		tasks: [{
-			count: 10L
-			id: "6D86103787248F46"
-			item: "minecraft:oak_log"
-			type: "item"
-		}]
+		tasks: [
+			{
+				count: 10L
+				id: "6D86103787248F46"
+				item: "minecraft:oak_log"
+				type: "item"
+			}
+			{
+				icon: "minecraft:oak_log"
+				id: "2F38DB6B24454FF9"
+				type: "custom"
+			}
+		]
 		title: "Consigue madera"
 		x: 1.0d
 		y: 0.5d
