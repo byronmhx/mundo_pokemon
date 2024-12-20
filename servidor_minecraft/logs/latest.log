@@ -1784,3 +1784,4 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [20Dec2024 15:07:51.667] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/cobblemon/mod/common/pokemon/feature/CobblemonSeason
 [20Dec2024 15:08:17.609] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting moe/plushie/armourers_workshop/core/data/EntityActionSet$TransitingMode
 [20Dec2024 15:08:39.229] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/ftb/mods/ftbquests/quest/QuestObjectType
+[20Dec2024 15:29:37.410] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/AbstractIllager$IllagerArmPose

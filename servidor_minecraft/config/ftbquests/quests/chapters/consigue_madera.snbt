@@ -8,11 +8,13 @@
 	quest_links: [ ]
 	quests: [{
 		description: ["&oTala arboles para conseguir el objetivo.&r"]
+		icon: "minecraft:oak_log"
 		id: "184AE470C781CC22"
 		rewards: [{
 			count: 5
 			id: "7310319B5F7A9BB9"
 			item: "minecraft:iron_ingot"
+			team_reward: false
 			type: "item"
 		}]
 		tasks: [{
