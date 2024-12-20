@@ -63,7 +63,9 @@
 					Count: 1
 					id: "minecraft:white_bed"
 					tag: {
-						"minecraft:red_bed": [ ]
+						"minecraft:pink_bed": { }
+						"minecraft:red_bed": { }
+						"minecraft:white_bed": { }
 					}
 				}
 				type: "item"

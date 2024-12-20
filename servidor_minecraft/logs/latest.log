@@ -1785,3 +1785,9 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [20Dec2024 15:08:17.609] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting moe/plushie/armourers_workshop/core/data/EntityActionSet$TransitingMode
 [20Dec2024 15:08:39.229] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/ftb/mods/ftbquests/quest/QuestObjectType
 [20Dec2024 15:29:37.410] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/AbstractIllager$IllagerArmPose
+[20Dec2024 16:04:23.869] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/ftb/mods/ftbquests/integration/item_filtering/ItemMatchingSystem
+[20Dec2024 16:09:59.262] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: byronmhx lost connection: Disconnected
+[20Dec2024 16:09:59.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: byronmhx left the game
+[20Dec2024 16:11:30.135] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: byronmhx[/100.97.248.86:50463] logged in with entity id 1456 at (-194.36840417279367, 63.0, -1654.4128677982899)
+[20Dec2024 16:11:30.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: byronmhx joined the game
+[20Dec2024 16:11:30.345] [Server thread/INFO] [Jade/]: Syncing config to byronmhx (e09226c3-33b4-38ad-ac36-a79de7a00c20)
