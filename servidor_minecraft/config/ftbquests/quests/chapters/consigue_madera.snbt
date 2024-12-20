@@ -1,0 +1,30 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "consigue_madera"
+	group: "51184ED9D1F06DC5"
+	id: "7E6FD58E88E5EF66"
+	order_index: 0
+	quest_links: [ ]
+	quests: [{
+		description: ["Tala arboles para conseguir madera."]
+		id: "40130E9CE6203334"
+		rewards: [{
+			count: 10
+			id: "664D0BC270AC2B5F"
+			item: "minecraft:iron_ingot"
+			type: "item"
+		}]
+		tasks: [{
+			advancement: "minecraft:story/root"
+			criterion: ""
+			icon: "minecraft:oak_log"
+			id: "01A2D0ACEC0D07D9"
+			title: "Consigue madera"
+			type: "advancement"
+		}]
+		x: -1.0d
+		y: -8.5d
+	}]
+	title: "Consigue madera"
+}
