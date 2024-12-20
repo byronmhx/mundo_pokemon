@@ -6,33 +6,71 @@
 	id: "7E6FD58E88E5EF66"
 	order_index: 0
 	quest_links: [ ]
-	quests: [{
-		description: ["&oTala arboles para conseguir el objetivo.&r"]
-		icon: "minecraft:oak_log"
-		id: "184AE470C781CC22"
-		rewards: [{
-			count: 5
-			id: "7310319B5F7A9BB9"
-			item: "minecraft:iron_ingot"
-			team_reward: false
-			type: "item"
-		}]
-		tasks: [
-			{
+	quests: [
+		{
+			description: [""]
+			icon: "minecraft:oak_log"
+			id: "184AE470C781CC22"
+			rewards: [{
+				count: 5
+				id: "7310319B5F7A9BB9"
+				item: "minecraft:iron_ingot"
+				team_reward: false
+				type: "item"
+			}]
+			subtitle: "Tala arboles para conseguir el objetivo."
+			tasks: [{
 				count: 10L
 				id: "6D86103787248F46"
 				item: "minecraft:oak_log"
 				type: "item"
-			}
-			{
-				icon: "minecraft:oak_log"
-				id: "2F38DB6B24454FF9"
-				type: "custom"
-			}
-		]
-		title: "Consigue madera"
-		x: 1.0d
-		y: 0.5d
-	}]
+			}]
+			title: "Consigue madera"
+			x: 1.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["184AE470C781CC22"]
+			description: [""]
+			id: "112E8CFD4945CE51"
+			rewards: [{
+				count: 5
+				id: "13F89D8DFF091BA4"
+				item: "cobblemon:poke_ball"
+				type: "item"
+			}]
+			subtitle: "Consigue una mesa de crafteo."
+			tasks: [{
+				id: "7ACBFE564A03C062"
+				item: "minecraft:crafting_table"
+				type: "item"
+			}]
+			x: -1.0d
+			y: 2.0d
+		}
+		{
+			id: "7E2E253203BC979F"
+			rewards: [{
+				count: 64
+				id: "71419041561052D8"
+				item: "minecraft:oak_planks"
+				type: "item"
+			}]
+			subtitle: "Consigue una cama."
+			tasks: [{
+				id: "4221DD3A171F84E9"
+				item: {
+					Count: 1
+					id: "minecraft:white_bed"
+					tag: {
+						"minecraft:red_bed": [ ]
+					}
+				}
+				type: "item"
+			}]
+			x: 1.0d
+			y: 2.0d
+		}
+	]
 	title: "\"Primeros pasos\""
 }
