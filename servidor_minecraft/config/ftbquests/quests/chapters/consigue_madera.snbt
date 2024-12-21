@@ -413,6 +413,56 @@
 			x: 2.0d
 			y: 3.0d
 		}
+		{
+			id: "6ACE7187DFD5A62D"
+			rewards: [
+				{
+					id: "105B2D989EE92BA7"
+					item: "cobblemon:great_ball"
+					type: "item"
+				}
+				{
+					id: "3DDBA924F994EEBF"
+					item: "cobblemon:rare_candy"
+					type: "item"
+				}
+			]
+			subtitle: "Consigue zanahorias."
+			tasks: [{
+				count: 25L
+				id: "3D5584B95CCECC47"
+				item: { Count: 25, id: "minecraft:carrot" }
+				type: "item"
+			}]
+			title: "Como crecen"
+			x: -4.0d
+			y: 3.0d
+		}
+		{
+			id: "78982978FBB7B453"
+			rewards: [
+				{
+					id: "5481BAB6FCA2E7E5"
+					item: "cobblemon:great_ball"
+					type: "item"
+				}
+				{
+					id: "07DB0FF28F589965"
+					item: "cobblemon:rare_candy"
+					type: "item"
+				}
+			]
+			subtitle: "Consigue papa."
+			tasks: [{
+				count: 25L
+				id: "7A9778E95A978D6B"
+				item: { Count: 20, id: "minecraft:potato" }
+				type: "item"
+			}]
+			title: "Como crecen"
+			x: 4.0d
+			y: 3.0d
+		}
 	]
 	title: "\"Primeros pasos\""
 }
