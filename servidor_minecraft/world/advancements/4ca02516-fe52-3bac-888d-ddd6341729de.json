@@ -10,6 +10,8 @@
       "minecraft:taiga": "2024-12-13 02:25:14 +0000",
       "minecraft:beach": "2024-12-16 02:44:23 +0000",
       "minecraft:river": "2024-12-13 03:13:09 +0000",
+      "minecraft:swamp": "2024-12-21 02:44:46 +0000",
+      "minecraft:cold_ocean": "2024-12-21 02:33:48 +0000",
       "minecraft:forest": "2024-12-13 02:27:14 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-12-16 02:15:30 +0000"
     },
@@ -492,6 +494,7 @@
       "obtain_aspear_berry": "2024-12-16 02:01:47 +0000",
       "obtain_chesto_berry": "2024-12-16 01:58:18 +0000",
       "obtain_rindo_berry": "2024-12-16 02:01:51 +0000",
+      "obtain_bluk_berry": "2024-12-21 02:47:35 +0000",
       "obtain_chople_berry": "2024-12-16 02:06:13 +0000"
     },
     "done": false
@@ -871,6 +874,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2024-12-21 02:47:35 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/consumables/remedy": {
+    "criteria": {
+      "has_root": "2024-12-21 02:48:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_planks": "2024-12-21 02:12:50 +0000"
@@ -889,6 +904,18 @@
     },
     "done": true
   },
+  "cobblemon:recipes/consumables/remedy_by_smoking": {
+    "criteria": {
+      "has_root": "2024-12-21 02:48:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2024-12-21 02:48:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
     "criteria": {
       "has_pink_dye": "2024-12-21 02:18:57 +0000"
@@ -898,6 +925,12 @@
   "minecraft:recipes/decorations/pink_candle": {
     "criteria": {
       "has_pink_dye": "2024-12-21 02:18:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2024-12-21 02:48:57 +0000"
     },
     "done": true
   },
@@ -919,6 +952,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2024-12-21 02:48:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/birch_sign": {
     "criteria": {
       "has_planks": "2024-12-21 02:12:50 +0000"
@@ -928,6 +967,12 @@
   "minecraft:recipes/redstone/birch_fence_gate": {
     "criteria": {
       "has_planks": "2024-12-21 02:12:50 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/consumables/remedy_by_campfire": {
+    "criteria": {
+      "has_root": "2024-12-21 02:48:57 +0000"
     },
     "done": true
   },
@@ -955,15 +1000,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2024-12-21 02:47:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_trapdoor": {
     "criteria": {
       "has_planks": "2024-12-21 02:12:50 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2024-12-21 02:47:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
       "has_planks": "2024-12-21 02:12:50 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:obtain_big_root": {
+    "criteria": {
+      "check_inv": "2024-12-21 02:48:57 +0000"
     },
     "done": true
   },

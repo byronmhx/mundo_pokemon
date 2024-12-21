@@ -499,6 +499,52 @@
 			x: 4.0d
 			y: 0.0d
 		}
+		{
+			id: "484B08E15F096FA6"
+			rewards: [
+				{
+					count: 25
+					id: "6F6B80B4BB924CAE"
+					item: "minecraft:bread"
+					type: "item"
+				}
+				{
+					count: 25
+					id: "39290592F1DDFFAB"
+					item: "minecraft:cooked_chicken"
+					type: "item"
+				}
+				{
+					count: 25
+					id: "7920A9AE3C141076"
+					item: "minecraft:cooked_mutton"
+					type: "item"
+				}
+				{
+					count: 25
+					id: "74632282777E5767"
+					item: "minecraft:cooked_porkchop"
+					type: "item"
+				}
+				{
+					count: 25
+					id: "50E4A2405EF2B250"
+					item: "minecraft:cooked_beef"
+					type: "item"
+				}
+			]
+			subtitle: "Mata 100 zombies."
+			tasks: [{
+				entity: "minecraft:zombie"
+				icon: "minecraft:zombie_head"
+				id: "67F49A49E223CA9D"
+				type: "kill"
+				value: 100L
+			}]
+			title: "Elimina zombies"
+			x: -2.0d
+			y: 4.5d
+		}
 	]
 	title: "\"Primeros pasos\""
 }
