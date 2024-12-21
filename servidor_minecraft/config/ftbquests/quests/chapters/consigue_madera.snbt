@@ -97,7 +97,7 @@
 				type: "item"
 			}]
 			x: -4.0d
-			y: 0.0d
+			y: -1.5d
 		}
 		{
 			id: "56D7FADD69D61222"
@@ -216,7 +216,7 @@
 				type: "item"
 			}]
 			x: 4.0d
-			y: 0.0d
+			y: -1.5d
 		}
 		{
 			id: "06BB731412856AEE"
@@ -462,6 +462,42 @@
 			title: "Como crecen"
 			x: 4.0d
 			y: 3.0d
+		}
+		{
+			id: "7D8CF1B6D69319E6"
+			rewards: [{
+				id: "38294AD2C8A1B59B"
+				item: "cobblemon:rare_candy"
+				type: "item"
+			}]
+			subtitle: "Consigue carbón."
+			tasks: [{
+				count: 25L
+				id: "660C559F92CF9B54"
+				item: { Count: 25, id: "minecraft:coal" }
+				type: "item"
+			}]
+			title: "Carbón"
+			x: -4.0d
+			y: 0.0d
+		}
+		{
+			id: "058776A4CC1660AD"
+			rewards: [{
+				id: "40876C3810F38C5C"
+				item: "cobblemon:rare_candy"
+				type: "item"
+			}]
+			subtitle: "Consigue cobre."
+			tasks: [{
+				count: 25L
+				id: "77486884D2E670CC"
+				item: { Count: 25, id: "minecraft:raw_copper" }
+				type: "item"
+			}]
+			title: "Cobre en bruto."
+			x: 4.0d
+			y: 0.0d
 		}
 	]
 	title: "\"Primeros pasos\""

@@ -1815,3 +1815,6 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [21Dec2024 02:18:28.109] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting moe/plushie/armourers_workshop/core/skin/paint/texture/EntityTextureDescriptor$Source
 [21Dec2024 02:23:57.150] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Level$ExplosionInteraction
 [21Dec2024 02:23:57.152] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Explosion$BlockInteraction
+[21Dec2024 02:31:58.776] [Worker-Main-40/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/OreVeinifier$VeinType
+[21Dec2024 02:32:08.360] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/renderdata/DisplaySide
+[21Dec2024 02:32:08.367] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/renderdata/TankPosition

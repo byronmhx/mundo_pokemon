@@ -36,5 +36,9 @@
 		"e09226c333b438adac36a79de7a00c20:13F89D8DFF091BA4": 1734746980465L
 		"e09226c333b438adac36a79de7a00c20:7310319B5F7A9BB9": 1734747239998L
 	}
-	player_data: { }
+	player_data: {
+		e09226c333b438adac36a79de7a00c20: {
+			can_edit: 1b
+		}
+	}
 }
