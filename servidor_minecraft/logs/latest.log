@@ -1811,3 +1811,23 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [21Dec2024 23:21:23.249] [Worker-Main-10/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/OreVeinifier$VeinType
 [21Dec2024 23:22:20.543] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/item/UseAnim
 [21Dec2024 23:22:47.857] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/player/Player$BedSleepingProblem
+[21Dec2024 23:33:34.641] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: byronmhx lost connection: Disconnected
+[21Dec2024 23:33:34.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: byronmhx left the game
+[21Dec2024 23:36:36.285] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: byronmhx[/100.97.248.86:52643] logged in with entity id 955 at (-679.0368506707975, 58.5625, -1803.8587773311376)
+[21Dec2024 23:36:36.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: byronmhx joined the game
+[21Dec2024 23:36:36.466] [Server thread/INFO] [Jade/]: Syncing config to byronmhx (e09226c3-33b4-38ad-ac36-a79de7a00c20)
+[21Dec2024 23:43:01.244] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/projectile/AbstractArrow$Pickup
+[21Dec2024 23:43:01.592] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/ProjectileImpactEvent$ImpactResult
+[21Dec2024 23:44:01.618] [Netty Epoll Server IO #1/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [easy_npc:network,darkfeather:darkfeather,sophisticatedbackpacks:channel,darkbread:darkbread,curios:main,sophisticatedcore:channel,patchouli:main,armourers_workshop:play,cobblemon:main,waystones:network,moonlight:channel] rejected vanilla connections
+[21Dec2024 23:44:01.618] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: [/100.82.62.26:50061] Disconnecting VANILLA connection attempt: This server has mods that require Forge to be installed on the client. Contact your server admin for more details.
+[21Dec2024 23:44:08.324] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/oracle/truffle/js/nodes/array/TestArrayNode$Test
+[21Dec2024 23:44:09.123] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/oracle/truffle/js/runtime/objects/Completion$Type
+[21Dec2024 23:44:09.195] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/cobblemon/mod/common/battles/ShowdownMoveset$Gimmick
+[21Dec2024 23:44:09.798] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/cobblemon/mod/common/battles/ShowdownActionResponseType
+[21Dec2024 23:44:12.805] [dimthread_server_overworld/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 379f1bfe-b808-45ea-bd41-5838f3e4e300
+[21Dec2024 23:44:12.805] [dimthread_server_overworld/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 379f1bfe-b808-45ea-bd41-5838f3e4e300
+[21Dec2024 23:44:12.807] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: byronmhx was shot by Skeleton
+[21Dec2024 23:45:55.189] [Netty Epoll Server IO #4/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [easy_npc:network,darkfeather:darkfeather,sophisticatedbackpacks:channel,darkbread:darkbread,curios:main,sophisticatedcore:channel,patchouli:main,armourers_workshop:play,cobblemon:main,waystones:network,moonlight:channel] rejected vanilla connections
+[21Dec2024 23:45:55.189] [Netty Epoll Server IO #4/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: [/100.82.62.26:50066] Disconnecting VANILLA connection attempt: This server has mods that require Forge to be installed on the client. Contact your server admin for more details.
+[21Dec2024 23:52:10.687] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/player/AdvancementEvent$AdvancementProgressEvent$ProgressType
+[21Dec2024 23:52:10.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: byronmhx has made the advancement [Isn't It Iron Pick]
