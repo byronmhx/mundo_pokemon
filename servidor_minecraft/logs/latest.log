@@ -1808,3 +1808,10 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [21Dec2024 02:14:14.872] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/oracle/truffle/js/runtime/objects/Completion$Type
 [21Dec2024 02:14:14.958] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/cobblemon/mod/common/battles/ShowdownMoveset$Gimmick
 [21Dec2024 02:14:15.604] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/cobblemon/mod/common/battles/ShowdownActionResponseType
+[21Dec2024 02:15:00.947] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/entity/BeehiveBlockEntity$BeeReleaseStatus
+[21Dec2024 02:15:34.413] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/cobblemon/mod/common/api/battles/interpreter/Effect$Type
+[21Dec2024 02:16:02.698] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/cobblemon/mod/common/api/battles/interpreter/BattleContext$Type
+[21Dec2024 02:16:49.319] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/player/Player$BedSleepingProblem
+[21Dec2024 02:18:28.109] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting moe/plushie/armourers_workshop/core/skin/paint/texture/EntityTextureDescriptor$Source
+[21Dec2024 02:23:57.150] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Level$ExplosionInteraction
+[21Dec2024 02:23:57.152] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Explosion$BlockInteraction

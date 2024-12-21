@@ -8,12 +8,12 @@
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 14,
+    "totalCaptureCount": 15,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 2,
-    "totalBattleVictoryCount": 89,
+    "totalBattleVictoryCount": 91,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 89,
+    "totalPvWBattleVictoryCount": 91,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 0,
@@ -25,7 +25,8 @@
       "ice": 1,
       "grass": 2,
       "fire": 1,
-      "ghost": 1
+      "ghost": 1,
+      "water": 1
     },
     "totalDefeatedCounts": {
       "cobblemon:zigzagoon": 8,
@@ -52,7 +53,7 @@
       "cobblemon:pidgeotto": 1,
       "cobblemon:vulpix": 2,
       "cobblemon:fletchinder": 1,
-      "cobblemon:furret": 1,
+      "cobblemon:furret": 2,
       "cobblemon:staravia": 1,
       "cobblemon:emolga": 1,
       "cobblemon:maschiff": 1,
