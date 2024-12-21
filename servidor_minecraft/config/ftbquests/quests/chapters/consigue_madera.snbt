@@ -42,6 +42,7 @@
 			tasks: [{
 				id: "7ACBFE564A03C062"
 				item: "minecraft:crafting_table"
+				only_from_crafting: true
 				type: "item"
 			}]
 			x: -2.0d
@@ -84,7 +85,7 @@
 		{
 			id: "5E22268F7321B66D"
 			rewards: [{
-				count: 5
+				count: 3
 				id: "4DA4CA7DD869178D"
 				item: "cobblemon:poke_ball"
 				type: "item"
@@ -100,6 +101,12 @@
 		}
 		{
 			id: "56D7FADD69D61222"
+			rewards: [{
+				count: 3
+				id: "5824B6EED255DFC1"
+				item: "cobblemon:poke_ball"
+				type: "item"
+			}]
 			subtitle: "Consigue hierro."
 			tasks: [{
 				count: 20L
@@ -107,12 +114,18 @@
 				item: "minecraft:raw_iron"
 				type: "item"
 			}]
-			title: "Hierro"
+			title: "Hierro en bruto"
 			x: -2.0d
 			y: 0.0d
 		}
 		{
 			id: "2CFC1E3EE628C8D1"
+			rewards: [{
+				count: 3
+				id: "48DCFF9F240A0BC5"
+				item: "cobblemon:poke_ball"
+				type: "item"
+			}]
 			subtitle: "Consigue oro."
 			tasks: [{
 				count: 20L
@@ -120,7 +133,7 @@
 				item: { Count: 20, id: "minecraft:raw_gold" }
 				type: "item"
 			}]
-			title: "Oro"
+			title: "Oro en bruto"
 			x: 0.0d
 			y: 0.0d
 		}
@@ -183,7 +196,7 @@
 					type: "item"
 				}
 			]
-			title: "Armadura"
+			title: "Armadura de hierro"
 			x: 2.0d
 			y: 0.0d
 		}
@@ -207,11 +220,19 @@
 		}
 		{
 			id: "06BB731412856AEE"
-			rewards: [{
-				id: "71B8A9E106BA1821"
-				type: "xp_levels"
-				xp_levels: 5
-			}]
+			rewards: [
+				{
+					id: "71B8A9E106BA1821"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+				{
+					count: 2
+					id: "6D7847A87577D195"
+					item: "cobblemon:rare_candy"
+					type: "item"
+				}
+			]
 			subtitle: "Cocina tu hierro."
 			tasks: [{
 				count: 20L
@@ -226,6 +247,19 @@
 		}
 		{
 			id: "4E684A5CE27C3D17"
+			rewards: [
+				{
+					id: "15B77464C5C0E1DD"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+				{
+					count: 2
+					id: "487E358AF51E01CE"
+					item: "cobblemon:rare_candy"
+					type: "item"
+				}
+			]
 			subtitle: "Cocina tu oro."
 			tasks: [{
 				count: 20L
@@ -237,6 +271,147 @@
 			title: "Oro"
 			x: 0.0d
 			y: 1.5d
+		}
+		{
+			id: "3B4C6FA3FFBD0D98"
+			rewards: [{
+				count: 5
+				id: "3160987A95EC818C"
+				item: "cobblemon:great_ball"
+				type: "item"
+			}]
+			subtitle: "Craftea una armadura de oro."
+			tasks: [
+				{
+					id: "1240582511B06068"
+					item: {
+						Count: 1
+						id: "minecraft:golden_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					only_from_crafting: true
+					type: "item"
+				}
+				{
+					id: "732DEBCC3CFE451E"
+					item: {
+						Count: 1
+						id: "minecraft:golden_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					only_from_crafting: true
+					type: "item"
+				}
+				{
+					id: "0BF4548405C7DC17"
+					item: {
+						Count: 1
+						id: "minecraft:golden_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					only_from_crafting: true
+					type: "item"
+				}
+				{
+					id: "7F4FA3949FB89615"
+					item: {
+						Count: 1
+						id: "minecraft:golden_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					only_from_crafting: true
+					type: "item"
+				}
+			]
+			title: "Armadura de oro"
+			x: 2.0d
+			y: 1.5d
+		}
+		{
+			id: "04057803EFC9FF28"
+			rewards: [
+				{
+					count: 2
+					id: "65A707416FC03609"
+					item: "cobblemon:great_ball"
+					type: "item"
+				}
+				{
+					id: "7A0DCF5985DC0414"
+					item: "cobblemon:rare_candy"
+					type: "item"
+				}
+			]
+			subtitle: "Cocina pollo."
+			tasks: [{
+				count: 25L
+				id: "2624539B1BB4188F"
+				item: { Count: 25, id: "minecraft:cooked_chicken" }
+				type: "item"
+			}]
+			title: "Manos al horno"
+			x: -2.0d
+			y: 3.0d
+		}
+		{
+			id: "58D85212D48EE040"
+			rewards: [
+				{
+					count: 2
+					id: "3A69329FA300CA8C"
+					item: "cobblemon:great_ball"
+					type: "item"
+				}
+				{
+					id: "08D0798A6DD450AA"
+					item: "cobblemon:rare_candy"
+					type: "item"
+				}
+			]
+			subtitle: "Cocina cordero."
+			tasks: [{
+				count: 20L
+				id: "1AD20DBF4078729D"
+				item: { Count: 20, id: "minecraft:cooked_mutton" }
+				type: "item"
+			}]
+			title: "Manos al horno"
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			id: "1DAEC81310370AE6"
+			rewards: [
+				{
+					count: 2
+					id: "69A7F90D863DF789"
+					item: "cobblemon:great_ball"
+					type: "item"
+				}
+				{
+					id: "09331D29816405CD"
+					item: "cobblemon:rare_candy"
+					type: "item"
+				}
+			]
+			subtitle: "Cocina chuletas."
+			tasks: [{
+				count: 25L
+				id: "06BDCA30EF0517AA"
+				item: { Count: 25, id: "minecraft:cooked_porkchop" }
+				type: "item"
+			}]
+			title: "Manos al horno."
+			x: 2.0d
+			y: 3.0d
 		}
 	]
 	title: "\"Primeros pasos\""

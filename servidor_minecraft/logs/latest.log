@@ -1791,3 +1791,8 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [21Dec2024 01:53:53.160] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Katvi_11[/100.82.62.26:49910] logged in with entity id 594 at (-191.68884884036925, 63.0, -1656.6964406723423)
 [21Dec2024 01:53:53.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Katvi_11 joined the game
 [21Dec2024 01:53:53.264] [Server thread/INFO] [Jade/]: Syncing config to Katvi_11 (4ca02516-fe52-3bac-888d-ddd6341729de)
+[21Dec2024 01:55:38.546] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/AbstractIllager$IllagerArmPose
+[21Dec2024 01:56:13.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [byronmhx: Set own game mode to Survival Mode]
+[21Dec2024 01:56:19.197] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/living/LivingChangeTargetEvent$LivingTargetType
+[21Dec2024 01:56:32.799] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/RenderShape
+[21Dec2024 01:57:51.549] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/item/UseAnim
