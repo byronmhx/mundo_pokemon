@@ -26,11 +26,10 @@
 				type: "item"
 			}]
 			title: "Consigue madera"
-			x: 1.0d
-			y: 0.5d
+			x: 0.0d
+			y: -3.0d
 		}
 		{
-			dependencies: ["184AE470C781CC22"]
 			description: [""]
 			id: "112E8CFD4945CE51"
 			rewards: [{
@@ -45,8 +44,8 @@
 				item: "minecraft:crafting_table"
 				type: "item"
 			}]
-			x: -1.0d
-			y: 2.0d
+			x: -2.0d
+			y: -1.5d
 		}
 		{
 			id: "7E2E253203BC979F"
@@ -58,20 +57,186 @@
 			}]
 			subtitle: "Consigue una cama."
 			tasks: [{
-				id: "4221DD3A171F84E9"
-				item: {
-					Count: 1
-					id: "minecraft:white_bed"
-					tag: {
-						"minecraft:pink_bed": { }
-						"minecraft:red_bed": { }
-						"minecraft:white_bed": { }
-					}
-				}
+				id: "23FF82CF1234DA16"
+				item: "minecraft:white_bed"
 				type: "item"
 			}]
-			x: 1.0d
-			y: 2.0d
+			x: 0.0d
+			y: -1.5d
+		}
+		{
+			id: "0D04B62AE244829B"
+			rewards: [{
+				count: 20
+				id: "0BF11BE5AF372EEC"
+				item: "minecraft:coal"
+				type: "item"
+			}]
+			subtitle: "Consigue un horno."
+			tasks: [{
+				id: "5288AA0CAD863E28"
+				item: "minecraft:furnace"
+				type: "item"
+			}]
+			x: 2.0d
+			y: -1.5d
+		}
+		{
+			id: "5E22268F7321B66D"
+			rewards: [{
+				count: 5
+				id: "4DA4CA7DD869178D"
+				item: "cobblemon:poke_ball"
+				type: "item"
+			}]
+			subtitle: "Consigue una fogata."
+			tasks: [{
+				id: "321E3756F45F0BC2"
+				item: "minecraft:campfire"
+				type: "item"
+			}]
+			x: -4.0d
+			y: 0.0d
+		}
+		{
+			id: "56D7FADD69D61222"
+			subtitle: "Consigue hierro."
+			tasks: [{
+				count: 20L
+				id: "3A553141AE756597"
+				item: "minecraft:raw_iron"
+				type: "item"
+			}]
+			title: "Hierro"
+			x: -2.0d
+			y: 0.0d
+		}
+		{
+			id: "2CFC1E3EE628C8D1"
+			subtitle: "Consigue oro."
+			tasks: [{
+				count: 20L
+				id: "281A3AF4CDB5CC72"
+				item: { Count: 20, id: "minecraft:raw_gold" }
+				type: "item"
+			}]
+			title: "Oro"
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			id: "64F4B04966F26415"
+			rewards: [{
+				count: 5
+				id: "5570F90A9D5984B9"
+				item: "cobblemon:great_ball"
+				type: "item"
+			}]
+			subtitle: "Craftea una armadura de hierro."
+			tasks: [
+				{
+					id: "49D798E9E4CAD871"
+					item: {
+						Count: 1
+						id: "minecraft:iron_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					only_from_crafting: true
+					type: "item"
+				}
+				{
+					id: "170385BD68D9940F"
+					item: {
+						Count: 1
+						id: "minecraft:iron_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					only_from_crafting: true
+					type: "item"
+				}
+				{
+					id: "1F1CFFE8D22417F0"
+					item: {
+						Count: 1
+						id: "minecraft:iron_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					only_from_crafting: true
+					type: "item"
+				}
+				{
+					id: "43EDC04418325A1E"
+					item: {
+						Count: 1
+						id: "minecraft:iron_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					only_from_crafting: true
+					type: "item"
+				}
+			]
+			title: "Armadura"
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			id: "443ECAA0FE49A3DB"
+			rewards: [{
+				count: 3
+				id: "45B8BD57EB4CFD46"
+				item: "cobblemon:rare_candy"
+				type: "item"
+			}]
+			subtitle: "Craftea una mochila."
+			tasks: [{
+				id: "497820F80ACCC47F"
+				item: "sophisticatedbackpacks:backpack"
+				only_from_crafting: true
+				type: "item"
+			}]
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			id: "06BB731412856AEE"
+			rewards: [{
+				id: "71B8A9E106BA1821"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			subtitle: "Cocina tu hierro."
+			tasks: [{
+				count: 20L
+				id: "56B9F6B8B6703F84"
+				item: { Count: 20, id: "minecraft:iron_ingot" }
+				only_from_crafting: true
+				type: "item"
+			}]
+			title: "Hierro"
+			x: -2.0d
+			y: 1.5d
+		}
+		{
+			id: "4E684A5CE27C3D17"
+			subtitle: "Cocina tu oro."
+			tasks: [{
+				count: 20L
+				id: "571BF202CA6E00AD"
+				item: { Count: 20, id: "minecraft:gold_ingot" }
+				only_from_crafting: true
+				type: "item"
+			}]
+			title: "Oro"
+			x: 0.0d
+			y: 1.5d
 		}
 	]
 	title: "\"Primeros pasos\""
