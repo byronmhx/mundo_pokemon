@@ -1,1 +1,9 @@
 [22Dec2024 00:00:57.645] [Worker-Main-30/INFO] [ModernFix/]: Instantiating Mojang DFU
+[22Dec2024 00:03:42.092] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: byronmhx lost connection: Disconnected
+[22Dec2024 00:03:42.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: byronmhx left the game
+[22Dec2024 00:05:06.158] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: byronmhx[/100.97.248.86:52825] logged in with entity id 3284 at (-771.9554976761102, 17.0, -1841.3552329655415)
+[22Dec2024 00:05:06.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: byronmhx joined the game
+[22Dec2024 00:05:06.253] [Server thread/INFO] [Jade/]: Syncing config to byronmhx (e09226c3-33b4-38ad-ac36-a79de7a00c20)
+[22Dec2024 00:08:19.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [byronmhx: Teleported byronmhx to Katvi_11]
+[22Dec2024 00:09:01.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [byronmhx: Teleported Katvi_11 to byronmhx]
+[22Dec2024 00:12:17.292] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: byronmhx was slain by Cave Spider

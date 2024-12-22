@@ -1796,5 +1796,11 @@
     },
     "done": true
   },
+  "cobblemon:recipes/held/ability_shield": {
+    "criteria": {
+      "has_shield": "2024-12-21 23:58:05 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
