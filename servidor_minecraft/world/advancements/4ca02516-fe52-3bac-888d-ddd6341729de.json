@@ -1295,15 +1295,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/blue_dye": {
-    "criteria": {
-      "has_lapis_lazuli": "2024-12-22 00:05:27 +0000"
-    },
-    "done": true
-  },
   "cobblemon:recipes/held/ability_shield": {
     "criteria": {
       "has_shield": "2024-12-21 23:58:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-22 00:05:27 +0000"
     },
     "done": true
   },
