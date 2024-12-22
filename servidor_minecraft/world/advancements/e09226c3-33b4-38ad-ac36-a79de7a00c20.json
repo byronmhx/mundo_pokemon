@@ -677,10 +677,13 @@
   },
   "cobblemon:obtain_all_berries": {
     "criteria": {
+      "obtain_aspear_berry": "2024-12-22 00:56:58 +0000",
       "obtain_chesto_berry": "2024-12-16 01:59:41 +0000",
       "obtain_persim_berry": "2024-12-21 02:36:10 +0000",
       "obtain_rindo_berry": "2024-12-16 02:00:16 +0000",
       "obtain_oran_berry": "2024-12-16 03:03:42 +0000",
+      "obtain_bluk_berry": "2024-12-22 00:57:23 +0000",
+      "obtain_chople_berry": "2024-12-22 00:56:42 +0000",
       "obtain_wacan_berry": "2024-12-16 03:01:29 +0000"
     },
     "done": false
@@ -1775,7 +1778,8 @@
     "criteria": {
       "minecraft:skeleton": "2024-12-21 03:08:31 +0000",
       "minecraft:cave_spider": "2024-12-22 00:11:56 +0000",
-      "minecraft:zombie": "2024-12-21 03:03:40 +0000"
+      "minecraft:zombie": "2024-12-21 03:03:40 +0000",
+      "minecraft:drowned": "2024-12-22 00:54:46 +0000"
     },
     "done": false
   },
@@ -1815,6 +1819,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2024-12-22 01:00:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2024-12-22 00:32:04 +0000"
@@ -1824,6 +1834,18 @@
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-12-22 00:49:18 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:obtain_leek": {
+    "criteria": {
+      "check_inv": "2024-12-22 00:56:06 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/agriculture/medicinal_leek_to_magenta_dye": {
+    "criteria": {
+      "has_leek": "2024-12-22 00:56:06 +0000"
     },
     "done": true
   },
@@ -1845,9 +1867,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2024-12-22 01:00:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2024-12-22 01:00:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blackstone_wall": {
     "criteria": {
       "has_blackstone": "2024-12-22 00:49:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2024-12-22 01:00:48 +0000"
     },
     "done": true
   },
@@ -1869,6 +1909,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-22 01:00:48 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/consumables/roasted_leek_by_smoking": {
+    "criteria": {
+      "has_leek": "2024-12-22 00:56:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2024-12-22 01:00:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/note_block": {
     "criteria": {
       "has_redstone": "2024-12-22 00:47:27 +0000"
@@ -1887,6 +1945,24 @@
     },
     "done": true
   },
+  "cobblemon:brew_all": {
+    "criteria": {
+      "obtain_super_potion": "2024-12-22 01:01:15 +0000"
+    },
+    "done": false
+  },
+  "cobblemon:recipes/consumables/roasted_leek": {
+    "criteria": {
+      "has_leek": "2024-12-22 00:56:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2024-12-22 01:01:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-12-22 00:49:18 +0000"
@@ -1902,6 +1978,12 @@
   "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-12-22 00:49:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-22 01:00:48 +0000"
     },
     "done": true
   },
@@ -1941,6 +2023,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2024-12-22 01:01:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone": {
     "criteria": {
       "has_blackstone": "2024-12-22 00:49:18 +0000"
@@ -1959,9 +2047,21 @@
     },
     "done": true
   },
+  "cobblemon:recipes/consumables/roasted_leek_by_campfire": {
+    "criteria": {
+      "has_leek": "2024-12-22 00:56:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-12-22 00:49:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-22 01:00:48 +0000"
     },
     "done": true
   },
@@ -1980,6 +2080,18 @@
   "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-12-22 00:49:18 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2024-12-22 00:54:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-22 01:00:48 +0000"
     },
     "done": true
   },

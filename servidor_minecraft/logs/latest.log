@@ -1833,3 +1833,4 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [22Dec2024 00:52:47.239] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/core/WaystoneEditPermissions
 [22Dec2024 00:56:04.409] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/common/gui/SortBy
 [22Dec2024 00:56:06.913] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: byronmhx has made the advancement [There's a Leek in the Boat!]
+[22Dec2024 01:03:36.669] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/cobblemon/mod/common/entity/pokeball/EmptyPokeBallEntity$CaptureState
