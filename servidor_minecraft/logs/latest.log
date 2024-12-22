@@ -1802,3 +1802,20 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [22Dec2024 00:22:25.214] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/api/EventResult
 [22Dec2024 00:22:25.950] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/renderdata/DisplaySide
 [22Dec2024 00:22:25.955] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/renderdata/TankPosition
+[22Dec2024 00:26:11.574] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Katvi_11[/100.82.62.26:50206] logged in with entity id 1110 at (-194.5, 63.0, -1653.5)
+[22Dec2024 00:26:11.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Katvi_11 joined the game
+[22Dec2024 00:26:11.638] [Server thread/INFO] [Jade/]: Syncing config to Katvi_11 (4ca02516-fe52-3bac-888d-ddd6341729de)
+[22Dec2024 00:27:06.766] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/living/LivingChangeTargetEvent$LivingTargetType
+[22Dec2024 00:27:11.313] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Markings
+[22Dec2024 00:27:17.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [byronmhx: Teleported Katvi_11 to byronmhx]
+[22Dec2024 00:27:55.642] [Worker-Main-18/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/OreVeinifier$VeinType
+[22Dec2024 00:29:17.564] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/item/UseAnim
+[22Dec2024 00:29:18.212] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Level$ExplosionInteraction
+[22Dec2024 00:29:18.213] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Explosion$BlockInteraction
+[22Dec2024 00:32:00.365] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/projectile/AbstractArrow$Pickup
+[22Dec2024 00:32:00.566] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/ProjectileImpactEvent$ImpactResult
+[22Dec2024 00:32:04.514] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/player/AdvancementEvent$AdvancementProgressEvent$ProgressType
+[22Dec2024 00:32:04.516] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: byronmhx has made the advancement [Not Today, Thank You]
+[22Dec2024 00:32:18.963] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/entity/BeehiveBlockEntity$BeeReleaseStatus
+[22Dec2024 00:33:13.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [byronmhx: Teleported byronmhx to Katvi_11]
+[22Dec2024 00:33:49.084] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedbackpacks/common/gui/BackpackContext$ContextType
