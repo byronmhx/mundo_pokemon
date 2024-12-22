@@ -122,6 +122,7 @@
       "chicken": "2024-12-13 02:52:05 +0000",
       "cooked_mutton": "2024-12-16 01:46:18 +0000",
       "cooked_beef": "2024-12-21 03:11:42 +0000",
+      "bread": "2024-12-22 00:45:29 +0000",
       "cooked_rabbit": "2024-12-19 03:08:44 +0000",
       "cooked_chicken": "2024-12-16 03:10:24 +0000",
       "cooked_salmon": "2024-12-21 02:52:17 +0000"
@@ -160,7 +161,11 @@
   },
   "cobblemon:craft_base_balls": {
     "criteria": {
-      "poke_ball": "2024-12-13 03:07:02 +0000"
+      "roseate_ball": "2024-12-22 00:47:21 +0000",
+      "poke_ball": "2024-12-13 03:07:02 +0000",
+      "premier_ball": "2024-12-22 00:44:47 +0000",
+      "azure_ball": "2024-12-22 00:45:12 +0000",
+      "citrine_ball": "2024-12-22 00:50:26 +0000"
     },
     "done": false
   },
@@ -172,10 +177,16 @@
   },
   "cobblemon:craft_all_balls": {
     "criteria": {
+      "quick_ball": "2024-12-22 00:45:00 +0000",
       "great_ball": "2024-12-20 03:52:49 +0000",
       "dusk_ball": "2024-12-22 00:34:43 +0000",
+      "azure_ball": "2024-12-22 00:45:12 +0000",
       "ultra_ball": "2024-12-20 03:52:36 +0000",
-      "poke_ball": "2024-12-13 03:07:02 +0000"
+      "heal_ball": "2024-12-22 00:50:26 +0000",
+      "poke_ball": "2024-12-13 03:07:02 +0000",
+      "citrine_ball": "2024-12-22 00:50:26 +0000",
+      "roseate_ball": "2024-12-22 00:47:21 +0000",
+      "premier_ball": "2024-12-22 00:44:47 +0000"
     },
     "done": false
   },
@@ -1810,9 +1821,87 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-22 00:49:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2024-12-22 00:47:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2024-12-22 00:32:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2024-12-22 00:47:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blackstone_wall": {
+    "criteria": {
+      "has_blackstone": "2024-12-22 00:49:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-22 00:49:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-22 00:49:18 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/evolution/electirizer": {
+    "criteria": {
+      "has_redstone": "2024-12-22 00:47:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2024-12-22 00:47:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-22 00:49:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2024-12-22 00:47:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-22 00:49:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2024-12-22 00:47:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-22 00:49:18 +0000"
     },
     "done": true
   },
@@ -1822,15 +1911,93 @@
     },
     "done": true
   },
+  "cobblemon:recipes/held/magnet": {
+    "criteria": {
+      "has_redstone": "2024-12-22 00:47:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs": {
+    "criteria": {
+      "has_blackstone": "2024-12-22 00:49:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-22 00:49:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_gold_block": {
     "criteria": {
       "has_raw_gold": "2024-12-22 00:32:59 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-22 00:49:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone": {
+    "criteria": {
+      "has_blackstone": "2024-12-22 00:49:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_slab": {
+    "criteria": {
+      "has_blackstone": "2024-12-22 00:49:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2024-12-22 00:47:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-22 00:49:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-22 00:49:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2024-12-22 00:47:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-22 00:49:18 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
     "criteria": {
       "has_copper_backpack": "2024-12-22 00:33:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-22 00:49:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2024-12-22 00:47:27 +0000"
     },
     "done": true
   },

@@ -11,9 +11,9 @@
     "totalCaptureCount": 15,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 2,
-    "totalBattleVictoryCount": 91,
+    "totalBattleVictoryCount": 92,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 91,
+    "totalPvWBattleVictoryCount": 92,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 0,
@@ -57,7 +57,8 @@
       "cobblemon:staravia": 1,
       "cobblemon:emolga": 1,
       "cobblemon:maschiff": 1,
-      "cobblemon:drifblim": 1
+      "cobblemon:drifblim": 1,
+      "cobblemon:galvantula": 1
     },
     "aspectsCollected": {}
   }
