@@ -3,7 +3,7 @@
     {
       "species": "cobblemon:megacharizardy",
       "gender": "FEMALE",
-      "level": 50,
+      "level": 1,
       "nature": "cobblemon:adamant",
       "ability": "drought",
       "moveset": [
@@ -28,7 +28,7 @@
     {
       "species": "cobblemon:megapidgeot",
       "gender": "MALE",
-      "level": 60,
+      "level": 1,
       "nature": "cobblemon:naive",
       "ability": "noguard",
       "moveset": [
@@ -55,7 +55,7 @@
     {
       "species": "cobblemon:arcanine",
       "gender": "MALE",
-      "level": 60,
+      "level": 1,
       "nature": "cobblemon:sassy",
       "ability": "intimidate",
       "moveset": [
@@ -80,7 +80,7 @@
       ]
     }
   ],
-  "winCommand": "",
+  "winCommand": "give %player% minecraft:iron_ingot 10",
   "lossCommand": "",
   "canOnlyBeatOnce": false,
   "cooldownSeconds": 0,
