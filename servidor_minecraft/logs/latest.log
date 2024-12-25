@@ -2208,3 +2208,5 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [25Dec2024 23:42:24.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: katvi_11 op<--[HERE]
 [25Dec2024 23:42:46.396] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved trainers/timesLastBattled.json
 [25Dec2024 23:44:07.517] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved trainers/trainerWins.json
+[25Dec2024 23:45:17.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [byronmhx: Teleported Katvi_11 to byronmhx]
+[25Dec2024 23:51:03.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [byronmhx: Teleported Katvi_11 to byronmhx]
