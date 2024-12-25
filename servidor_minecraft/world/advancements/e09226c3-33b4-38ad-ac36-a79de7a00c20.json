@@ -2547,5 +2547,11 @@
     },
     "done": true
   },
+  "cobblemon:trade_pokemon": {
+    "criteria": {
+      "trade": "2024-12-25 22:54:02 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

@@ -2100,3 +2100,19 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [25Dec2024 22:45:57.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [byronmhx: Set own game mode to Survival Mode]
 [25Dec2024 22:46:06.924] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/projectile/AbstractArrow$Pickup
 [25Dec2024 22:46:10.466] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness
+[25Dec2024 22:54:02.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Katvi_11 has made the advancement [Take Good Care!]
+[25Dec2024 22:54:02.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: byronmhx has made the advancement [Take Good Care!]
+[25Dec2024 22:55:01.327] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedbackpacks/common/gui/BackpackContext$ContextType
+[25Dec2024 22:55:01.340] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/renderdata/DisplaySide
+[25Dec2024 22:59:54.819] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: e607d0ed-0b89-4f04-b516-2bde5376bc3a
+[25Dec2024 22:59:54.820] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: e607d0ed-0b89-4f04-b516-2bde5376bc3a
+[25Dec2024 22:59:56.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [byronmhx: Teleported Katvi_11 to byronmhx]
+[25Dec2024 23:00:13.242] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/vehicle/Boat$Status
+[25Dec2024 23:00:14.536] [Worker-Main-123/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/OreVeinifier$VeinType
+[25Dec2024 23:00:46.228] [Worker-Main-124/INFO] [ModernFix/]: Instantiating Mojang DFU
+[25Dec2024 23:01:55.667] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/entity/BeehiveBlockEntity$BeeReleaseStatus
+[25Dec2024 23:02:05.761] [Worker-Main-124/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
+[25Dec2024 23:02:05.761] [Worker-Main-124/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
+[25Dec2024 23:02:05.783] [Worker-Main-124/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
+[25Dec2024 23:03:44.764] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: byronmhx lost connection: Disconnected
+[25Dec2024 23:03:44.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: byronmhx left the game
