@@ -1814,3 +1814,8 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [25Dec2024 16:53:16.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [byronmhx: Gave Elekid to byronmhx.]
 [25Dec2024 17:06:10.621] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: byronmhx was slain by Zombie
 [25Dec2024 17:08:14.919] [dimthread_server_overworld/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/693, l='ServerLevel[world]', x=-235.74, y=72.00, z=-917.32] died, message: 'Farmer was slain by Zombie'
+[25Dec2024 17:14:12.068] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/player/AdvancementEvent$AdvancementProgressEvent$ProgressType
+[25Dec2024 17:14:32.297] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/core/WarpMode
+[25Dec2024 17:14:33.058] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/api/EventResult
+[25Dec2024 17:15:22.746] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedbackpacks/common/gui/BackpackContext$ContextType
+[25Dec2024 17:20:38.077] [Worker-Main-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/OreVeinifier$VeinType

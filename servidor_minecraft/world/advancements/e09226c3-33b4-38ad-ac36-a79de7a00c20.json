@@ -125,7 +125,8 @@
       "bread": "2024-12-22 00:45:29 +0000",
       "cooked_rabbit": "2024-12-19 03:08:44 +0000",
       "cooked_chicken": "2024-12-16 03:10:24 +0000",
-      "cooked_salmon": "2024-12-21 02:52:17 +0000"
+      "cooked_salmon": "2024-12-21 02:52:17 +0000",
+      "carrot": "2024-12-25 17:15:01 +0000"
     },
     "done": false
   },
@@ -2524,6 +2525,18 @@
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2024-12-25 05:27:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2024-12-25 17:14:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2024-12-25 17:14:12 +0000"
     },
     "done": true
   },

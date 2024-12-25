@@ -11,9 +11,9 @@
     "totalCaptureCount": 26,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 2,
-    "totalBattleVictoryCount": 121,
+    "totalBattleVictoryCount": 125,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 121,
+    "totalPvWBattleVictoryCount": 125,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 0,
@@ -62,11 +62,14 @@
       "cobblemon:galvantula": 1,
       "cobblemon:forretress": 1,
       "cobblemon:crabrawler": 1,
-      "cobblemon:bouffalant": 4,
+      "cobblemon:bouffalant": 5,
       "cobblemon:stonjourner": 5,
       "cobblemon:koffing": 1,
       "cobblemon:miltank": 1,
-      "cobblemon:elekid": 2
+      "cobblemon:elekid": 2,
+      "cobblemon:mimejr": 1,
+      "cobblemon:whimsicott": 1,
+      "cobblemon:oinkologne": 1
     },
     "aspectsCollected": {}
   }
