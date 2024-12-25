@@ -1808,3 +1808,7 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [25Dec2024 16:50:47.971] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness
 [25Dec2024 16:51:52.966] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Level$ExplosionInteraction
 [25Dec2024 16:51:52.968] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Explosion$BlockInteraction
+[25Dec2024 16:52:12.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [byronmhx: Gave Elekid to byronmhx.]
+[25Dec2024 16:52:37.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [byronmhx: Gave Elekid to byronmhx.]
+[25Dec2024 16:52:53.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [byronmhx: Gave Elekid to byronmhx.]
+[25Dec2024 16:53:16.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [byronmhx: Gave Elekid to byronmhx.]
