@@ -122,6 +122,7 @@
       "chicken": "2024-12-13 02:52:05 +0000",
       "cooked_mutton": "2024-12-16 01:46:18 +0000",
       "cooked_beef": "2024-12-21 03:11:42 +0000",
+      "mutton": "2024-12-25 17:30:52 +0000",
       "bread": "2024-12-22 00:45:29 +0000",
       "cooked_rabbit": "2024-12-19 03:08:44 +0000",
       "cooked_chicken": "2024-12-16 03:10:24 +0000",
@@ -2537,6 +2538,12 @@
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2024-12-25 17:14:12 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/heavy_duty_boots": {
+    "criteria": {
+      "has_leather": "2024-12-25 17:29:03 +0000"
     },
     "done": true
   },
