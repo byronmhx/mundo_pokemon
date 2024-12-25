@@ -11,9 +11,9 @@
     "totalCaptureCount": 15,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 2,
-    "totalBattleVictoryCount": 93,
+    "totalBattleVictoryCount": 95,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 93,
+    "totalPvWBattleVictoryCount": 95,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 0,
@@ -44,7 +44,7 @@
       "cobblemon:voltorb": 1,
       "cobblemon:pineco": 5,
       "cobblemon:fletchling": 10,
-      "cobblemon:sentret": 3,
+      "cobblemon:sentret": 4,
       "cobblemon:vivillon": 1,
       "cobblemon:corvisquire": 2,
       "cobblemon:joltik": 1,
@@ -58,7 +58,8 @@
       "cobblemon:emolga": 1,
       "cobblemon:maschiff": 1,
       "cobblemon:drifblim": 1,
-      "cobblemon:galvantula": 1
+      "cobblemon:galvantula": 1,
+      "cobblemon:forretress": 1
     },
     "aspectsCollected": {}
   }

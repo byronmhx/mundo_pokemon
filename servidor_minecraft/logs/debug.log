@@ -6778,3 +6778,85 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [25Dec2024 04:31:08.224] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
 [25Dec2024 04:31:08.226] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
 [25Dec2024 04:31:34.178] [Worker-Main-25/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-25 shutdown
+[25Dec2024 04:31:38.274] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[25Dec2024 04:31:38.274] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[25Dec2024 04:31:38.275] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[25Dec2024 04:32:05.337] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-30
+[25Dec2024 04:32:05.337] [IO-Worker-30/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-31
+[25Dec2024 04:32:05.338] [IO-Worker-30/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-32
+[25Dec2024 04:32:05.350] [IO-Worker-30/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-33
+[25Dec2024 04:32:05.378] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Dec2024 04:32:05.388] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Dec2024 04:32:08.324] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[25Dec2024 04:32:08.325] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[25Dec2024 04:32:08.326] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[25Dec2024 04:32:13.565] [Worker-Main-26/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-34
+[25Dec2024 04:32:38.373] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[25Dec2024 04:32:38.373] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[25Dec2024 04:32:38.374] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[25Dec2024 04:33:08.424] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[25Dec2024 04:33:08.424] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[25Dec2024 04:33:08.425] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[25Dec2024 04:33:38.473] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[25Dec2024 04:33:38.474] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[25Dec2024 04:33:38.476] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[25Dec2024 04:34:08.523] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[25Dec2024 04:34:08.523] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[25Dec2024 04:34:08.525] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[25Dec2024 04:34:38.575] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[25Dec2024 04:34:38.575] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[25Dec2024 04:34:38.576] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[25Dec2024 04:35:08.624] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[25Dec2024 04:35:08.624] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[25Dec2024 04:35:08.626] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[25Dec2024 04:35:38.674] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[25Dec2024 04:35:38.674] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[25Dec2024 04:35:38.675] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[25Dec2024 04:36:08.723] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[25Dec2024 04:36:08.723] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[25Dec2024 04:36:08.724] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[25Dec2024 04:36:38.775] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[25Dec2024 04:36:38.775] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[25Dec2024 04:36:38.777] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[25Dec2024 04:37:05.368] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Dec2024 04:37:05.374] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Dec2024 04:37:05.466] [IO-Worker-30/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-35
+[25Dec2024 04:37:08.824] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[25Dec2024 04:37:08.825] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[25Dec2024 04:37:08.825] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[25Dec2024 04:37:38.873] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[25Dec2024 04:37:38.874] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[25Dec2024 04:37:38.875] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[25Dec2024 04:37:43.078] [Worker-Main-22/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-22 shutdown
+[25Dec2024 04:37:51.326] [Worker-Main-26/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-36
+[25Dec2024 04:38:08.924] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[25Dec2024 04:38:08.924] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[25Dec2024 04:38:08.924] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[25Dec2024 04:38:38.973] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[25Dec2024 04:38:38.973] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[25Dec2024 04:38:38.974] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[25Dec2024 04:38:51.329] [Worker-Main-36/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-36 shutdown
+[25Dec2024 04:39:09.024] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[25Dec2024 04:39:09.024] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[25Dec2024 04:39:09.024] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[25Dec2024 04:39:39.073] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[25Dec2024 04:39:39.074] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[25Dec2024 04:39:39.074] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[25Dec2024 04:39:51.329] [Worker-Main-34/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-34 shutdown
+[25Dec2024 04:40:09.124] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[25Dec2024 04:40:09.124] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[25Dec2024 04:40:09.124] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[25Dec2024 04:40:10.625] [dimthread_server_overworld/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-37
+[25Dec2024 04:40:10.626] [IO-Worker-37/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-38
+[25Dec2024 04:40:28.623] [Worker-Main-26/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-39
+[25Dec2024 04:40:28.624] [Worker-Main-26/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-40
+[25Dec2024 04:40:39.173] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[25Dec2024 04:40:39.173] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[25Dec2024 04:40:39.173] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[25Dec2024 04:41:09.224] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[25Dec2024 04:41:09.225] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[25Dec2024 04:41:09.225] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[25Dec2024 04:41:28.625] [Worker-Main-40/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-40 shutdown
+[25Dec2024 04:41:39.274] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[25Dec2024 04:41:39.274] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[25Dec2024 04:41:39.274] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
