@@ -1828,3 +1828,11 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [25Dec2024 04:53:22.281] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/cobblemon/mod/common/api/pokeball/catching/CatchRateModifier$Behavior
 [25Dec2024 05:00:48.729] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: c917ac19-2164-46f2-a196-30c918f768a4
 [25Dec2024 05:00:48.729] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: c917ac19-2164-46f2-a196-30c918f768a4
+[25Dec2024 05:03:10.019] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/core/WaystoneEditPermissions
+[25Dec2024 05:05:01.367] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/core/WarpMode
+[25Dec2024 05:05:11.731] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/api/EventResult
+[25Dec2024 05:05:33.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [byronmhx: Set own game mode to Creative Mode]
+[25Dec2024 05:06:03.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [byronmhx: Set own game mode to Survival Mode]
+[25Dec2024 05:10:19.380] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: b7e39a92-c93b-4656-ba52-68609f961254
+[25Dec2024 05:10:19.380] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: b7e39a92-c93b-4656-ba52-68609f961254
+[25Dec2024 05:10:37.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: byronmhx has made the advancement [What a Deal!]
