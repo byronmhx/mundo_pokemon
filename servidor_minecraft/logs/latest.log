@@ -1838,3 +1838,9 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [25Dec2024 05:10:37.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: byronmhx has made the advancement [What a Deal!]
 [25Dec2024 05:14:23.329] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 05c9fe42-8c33-4b52-87ba-623c563ceb86
 [25Dec2024 05:14:23.330] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 05c9fe42-8c33-4b52-87ba-623c563ceb86
+[25Dec2024 05:33:22.079] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 16e5bec6-492e-46a4-8c96-f0e2553e018d
+[25Dec2024 05:33:22.079] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 16e5bec6-492e-46a4-8c96-f0e2553e018d
+[25Dec2024 05:37:12.779] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: f1ddcf86-7702-4847-9540-c8afadf6771d
+[25Dec2024 05:37:12.780] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: f1ddcf86-7702-4847-9540-c8afadf6771d
+[25Dec2024 05:37:27.578] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: b7a69716-8b3d-4e41-a722-69a79fd220e8
+[25Dec2024 05:37:27.579] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: b7a69716-8b3d-4e41-a722-69a79fd220e8

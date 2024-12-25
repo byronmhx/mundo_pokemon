@@ -2131,6 +2131,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2024-12-25 05:27:12 +0000"
+    },
+    "done": true
+  },
   "cobblemon:recipes/held/soft_sand": {
     "criteria": {
       "has_sand": "2024-12-25 04:50:48 +0000"
