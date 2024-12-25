@@ -11,9 +11,9 @@
     "totalCaptureCount": 25,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 2,
-    "totalBattleVictoryCount": 119,
+    "totalBattleVictoryCount": 120,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 119,
+    "totalPvWBattleVictoryCount": 120,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 0,
@@ -66,7 +66,7 @@
       "cobblemon:stonjourner": 5,
       "cobblemon:koffing": 1,
       "cobblemon:miltank": 1,
-      "cobblemon:elekid": 1
+      "cobblemon:elekid": 2
     },
     "aspectsCollected": {}
   }
