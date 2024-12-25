@@ -9,7 +9,9 @@
     "criteria": {
       "minecraft:taiga": "2024-12-13 02:25:14 +0000",
       "minecraft:deep_ocean": "2024-12-25 23:00:41 +0000",
+      "minecraft:birch_forest": "2024-12-25 23:06:52 +0000",
       "minecraft:beach": "2024-12-16 02:44:23 +0000",
+      "minecraft:dark_forest": "2024-12-25 23:13:02 +0000",
       "minecraft:river": "2024-12-13 03:13:09 +0000",
       "minecraft:swamp": "2024-12-21 02:44:46 +0000",
       "minecraft:cold_ocean": "2024-12-21 02:33:48 +0000",
@@ -17,6 +19,7 @@
       "minecraft:deep_cold_ocean": "2024-12-25 23:00:38 +0000",
       "minecraft:ocean": "2024-12-25 23:01:27 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-12-16 02:15:30 +0000",
+      "minecraft:old_growth_birch_forest": "2024-12-25 23:11:02 +0000",
       "minecraft:plains": "2024-12-21 03:08:55 +0000"
     },
     "done": false
@@ -1498,15 +1501,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2024-12-25 23:13:23 +0000"
+    },
+    "done": true
+  },
   "cobblemon:trade_pokemon": {
     "criteria": {
       "trade": "2024-12-25 22:54:02 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
+    "criteria": {
+      "has_white_tulip": "2024-12-25 23:11:06 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/gold_backpack": {
     "criteria": {
       "has_iron_backpack": "2024-12-25 22:27:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
+    "criteria": {
+      "has_orange_tulip": "2024-12-25 23:13:32 +0000"
     },
     "done": true
   },

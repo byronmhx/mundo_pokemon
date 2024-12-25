@@ -2116,3 +2116,8 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [25Dec2024 23:02:05.783] [Worker-Main-124/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
 [25Dec2024 23:03:44.764] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: byronmhx lost connection: Disconnected
 [25Dec2024 23:03:44.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: byronmhx left the game
+[25Dec2024 23:06:03.456] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: byronmhx[/100.97.248.86:50389] logged in with entity id 7396 at (-186.62001915226438, 63.0, -1650.487500011921)
+[25Dec2024 23:06:03.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: byronmhx joined the game
+[25Dec2024 23:06:03.630] [Server thread/INFO] [Jade/]: Syncing config to byronmhx (e09226c3-33b4-38ad-ac36-a79de7a00c20)
+[25Dec2024 23:12:12.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [byronmhx: Teleported Katvi_11 to byronmhx]
+[25Dec2024 23:13:55.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: byronmhx has made the advancement [You Cannot Handle My Potions]
