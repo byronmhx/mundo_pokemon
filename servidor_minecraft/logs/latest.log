@@ -1812,3 +1812,5 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [25Dec2024 16:52:37.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [byronmhx: Gave Elekid to byronmhx.]
 [25Dec2024 16:52:53.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [byronmhx: Gave Elekid to byronmhx.]
 [25Dec2024 16:53:16.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [byronmhx: Gave Elekid to byronmhx.]
+[25Dec2024 17:06:10.621] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: byronmhx was slain by Zombie
+[25Dec2024 17:08:14.919] [dimthread_server_overworld/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/693, l='ServerLevel[world]', x=-235.74, y=72.00, z=-917.32] died, message: 'Farmer was slain by Zombie'
