@@ -1,0 +1,118 @@
+{
+  "team": [
+    {
+      "species": "cobblemon:clefable",
+      "gender": "FEMALE",
+      "level": 50,
+      "nature": "cobblemon:naughty",
+      "ability": "cutecharm",
+      "moveset": [
+        "sweetkiss",
+        "storedpower",
+        "spotlight",
+        "splash"
+      ],
+      "ivs": {
+        "hp": 15,
+        "attack": 23,
+        "defence": 19,
+        "special_attack": 7,
+        "special_defence": 25,
+        "speed": 14
+      },
+      "evs": {},
+      "shiny": false,
+      "heldItem": "minecraft:air",
+      "aspects": [
+        "female"
+      ]
+    },
+    {
+      "species": "cobblemon:vileplume",
+      "gender": "FEMALE",
+      "level": 50,
+      "nature": "cobblemon:jolly",
+      "ability": "chlorophyll",
+      "moveset": [
+        "petalblizzard",
+        "toxic",
+        "sweetscent",
+        "stunspore"
+      ],
+      "ivs": {
+        "hp": 8,
+        "attack": 24,
+        "defence": 26,
+        "special_attack": 20,
+        "special_defence": 28,
+        "speed": 23
+      },
+      "evs": {},
+      "shiny": false,
+      "heldItem": "minecraft:air",
+      "aspects": [
+        "female"
+      ]
+    },
+    {
+      "species": "cobblemon:decidueye",
+      "gender": "MALE",
+      "level": 50,
+      "nature": "cobblemon:impish",
+      "ability": "overgrow",
+      "moveset": [
+        "leafblade",
+        "suckerpunch",
+        "furyattack",
+        "nastyplot"
+      ],
+      "ivs": {
+        "hp": 1,
+        "attack": 31,
+        "defence": 31,
+        "special_attack": 16,
+        "special_defence": 1,
+        "speed": 1
+      },
+      "evs": {},
+      "shiny": false,
+      "heldItem": "minecraft:air",
+      "aspects": [
+        "male"
+      ]
+    },
+    {
+      "species": "cobblemon:ferrothorn",
+      "gender": "MALE",
+      "level": 50,
+      "nature": "cobblemon:hasty",
+      "ability": "ironbarbs",
+      "moveset": [
+        "gyroball",
+        "curse",
+        "irondefense",
+        "selfdestruct"
+      ],
+      "ivs": {
+        "hp": 12,
+        "attack": 7,
+        "defence": 12,
+        "special_attack": 22,
+        "special_defence": 24,
+        "speed": 9
+      },
+      "evs": {},
+      "shiny": false,
+      "heldItem": "minecraft:air",
+      "aspects": [
+        "male"
+      ]
+    }
+  ],
+  "winCommand": "",
+  "lossCommand": "cobgyms whiteout_helper_command %player%",
+  "canOnlyBeatOnce": true,
+  "cooldownSeconds": 0,
+  "partyMaximumLevel": 100,
+  "defeatRequiredTrainers": []
+}

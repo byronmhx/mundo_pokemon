@@ -2121,3 +2121,90 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [25Dec2024 23:06:03.630] [Server thread/INFO] [Jade/]: Syncing config to byronmhx (e09226c3-33b4-38ad-ac36-a79de7a00c20)
 [25Dec2024 23:12:12.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [byronmhx: Teleported Katvi_11 to byronmhx]
 [25Dec2024 23:13:55.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: byronmhx has made the advancement [You Cannot Handle My Potions]
+[25Dec2024 23:21:17.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Katvi_11 has made the advancement [Doing my Part]
+[25Dec2024 23:25:41.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [byronmhx: Teleported byronmhx to Katvi_11]
+[25Dec2024 23:26:56.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Katvi_11 has made the advancement [You Cannot Handle My Potions]
+[25Dec2024 23:27:10.114] [dimthread_server_overworld/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/8382, l='ServerLevel[world]', x=-375.70, y=66.94, z=109.50] died, message: 'Toolsmith was shot by Pillager'
+[25Dec2024 23:27:44.615] [dimthread_server_overworld/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/8425, l='ServerLevel[world]', x=-398.41, y=64.00, z=102.29] died, message: 'Unemployed was shot by Pillager'
+[25Dec2024 23:28:12.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [byronmhx: Teleported byronmhx to Katvi_11]
+[25Dec2024 23:30:34.119] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: Katvi_11 was shot by Skeleton
+[25Dec2024 23:30:43.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [byronmhx: Teleported Katvi_11 to byronmhx]
+[25Dec2024 23:31:14.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: byronmhx was slain by Katvi_11
+[25Dec2024 23:31:24.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [byronmhx: Teleported byronmhx to Katvi_11]
+[25Dec2024 23:35:54.458] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/b57d42c2-61dc-47ed-90c6-bda82e07b7e1.json
+[25Dec2024 23:35:54.459] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/b57d42c2-61dc-47ed-90c6-bda82e07b7e1.json
+[25Dec2024 23:35:54.460] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/b57d42c2-61dc-47ed-90c6-bda82e07b7e1.json
+[25Dec2024 23:35:54.460] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/b57d42c2-61dc-47ed-90c6-bda82e07b7e1.json
+[25Dec2024 23:35:54.461] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/b57d42c2-61dc-47ed-90c6-bda82e07b7e1.json
+[25Dec2024 23:35:54.461] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/b57d42c2-61dc-47ed-90c6-bda82e07b7e1.json
+[25Dec2024 23:35:54.462] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/b57d42c2-61dc-47ed-90c6-bda82e07b7e1.json
+[25Dec2024 23:35:54.463] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/988a187b-a1ed-47ad-bd15-a1fa1ae8f2c9.json
+[25Dec2024 23:35:54.464] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/988a187b-a1ed-47ad-bd15-a1fa1ae8f2c9.json
+[25Dec2024 23:35:54.464] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/988a187b-a1ed-47ad-bd15-a1fa1ae8f2c9.json
+[25Dec2024 23:35:54.465] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/988a187b-a1ed-47ad-bd15-a1fa1ae8f2c9.json
+[25Dec2024 23:35:54.465] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/988a187b-a1ed-47ad-bd15-a1fa1ae8f2c9.json
+[25Dec2024 23:35:54.466] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/988a187b-a1ed-47ad-bd15-a1fa1ae8f2c9.json
+[25Dec2024 23:35:54.467] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/988a187b-a1ed-47ad-bd15-a1fa1ae8f2c9.json
+[25Dec2024 23:35:54.469] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/988a187b-a1ed-47ad-bd15-a1fa1ae8f2c9.json
+[25Dec2024 23:35:54.470] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/02c59912-ca9f-4a8b-8179-43d0504cb0e3.json
+[25Dec2024 23:35:54.470] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/02c59912-ca9f-4a8b-8179-43d0504cb0e3.json
+[25Dec2024 23:35:54.471] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/02c59912-ca9f-4a8b-8179-43d0504cb0e3.json
+[25Dec2024 23:35:54.472] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/02c59912-ca9f-4a8b-8179-43d0504cb0e3.json
+[25Dec2024 23:35:54.473] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/02c59912-ca9f-4a8b-8179-43d0504cb0e3.json
+[25Dec2024 23:35:54.474] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/02c59912-ca9f-4a8b-8179-43d0504cb0e3.json
+[25Dec2024 23:35:54.475] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/02c59912-ca9f-4a8b-8179-43d0504cb0e3.json
+[25Dec2024 23:35:54.477] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/02c59912-ca9f-4a8b-8179-43d0504cb0e3.json
+[25Dec2024 23:35:54.478] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/02c59912-ca9f-4a8b-8179-43d0504cb0e3.json
+[25Dec2024 23:35:54.478] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/02c59912-ca9f-4a8b-8179-43d0504cb0e3.json
+[25Dec2024 23:35:54.479] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/02c59912-ca9f-4a8b-8179-43d0504cb0e3.json
+[25Dec2024 23:35:54.480] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/02c59912-ca9f-4a8b-8179-43d0504cb0e3.json
+[25Dec2024 23:35:54.572] [Server thread/INFO] [cobgyms/]: Successfully placed structure: cobgyms:gym_woodland01 at 0,0,0
+[25Dec2024 23:35:54.586] [Server thread/INFO] [cobgyms/]: Gym initialised, took: 130ms
+[25Dec2024 23:36:00.917] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: byronmhx lost connection: Disconnected
+[25Dec2024 23:36:00.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: byronmhx left the game
+[25Dec2024 23:36:39.863] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Level$ExplosionInteraction
+[25Dec2024 23:36:39.864] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Explosion$BlockInteraction
+[25Dec2024 23:36:54.214] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: Katvi_11 was slain by Zombie
+[25Dec2024 23:37:14.514] [dimthread_server_overworld/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cartographer'/14582, l='ServerLevel[world]', x=-352.30, y=64.00, z=142.40] died, message: 'Cartographer was slain by Zombie'
+[25Dec2024 23:37:26.876] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: byronmhx[/100.97.248.86:50503] logged in with entity id 15267 at (10.5, 11.0, 7.5)
+[25Dec2024 23:37:26.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: byronmhx joined the game
+[25Dec2024 23:37:26.924] [Server thread/INFO] [Jade/]: Syncing config to byronmhx (e09226c3-33b4-38ad-ac36-a79de7a00c20)
+[25Dec2024 23:37:50.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [byronmhx: Teleported Katvi_11 to byronmhx]
+[25Dec2024 23:39:06.717] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved trainers/timesLastBattled.json
+[25Dec2024 23:39:34.250] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved trainers/timesLastBattled.json
+[25Dec2024 23:41:20.516] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/d7f17b44-3797-4837-b477-e0a09ccb9edd.json
+[25Dec2024 23:41:20.517] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/d7f17b44-3797-4837-b477-e0a09ccb9edd.json
+[25Dec2024 23:41:20.518] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/d7f17b44-3797-4837-b477-e0a09ccb9edd.json
+[25Dec2024 23:41:20.518] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/d7f17b44-3797-4837-b477-e0a09ccb9edd.json
+[25Dec2024 23:41:20.519] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/d7f17b44-3797-4837-b477-e0a09ccb9edd.json
+[25Dec2024 23:41:20.520] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/d7f17b44-3797-4837-b477-e0a09ccb9edd.json
+[25Dec2024 23:41:20.521] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/d7f17b44-3797-4837-b477-e0a09ccb9edd.json
+[25Dec2024 23:41:20.522] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/bd8218f6-7591-4c5b-b99a-682988359d7e.json
+[25Dec2024 23:41:20.522] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/bd8218f6-7591-4c5b-b99a-682988359d7e.json
+[25Dec2024 23:41:20.523] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/bd8218f6-7591-4c5b-b99a-682988359d7e.json
+[25Dec2024 23:41:20.524] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/bd8218f6-7591-4c5b-b99a-682988359d7e.json
+[25Dec2024 23:41:20.524] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/bd8218f6-7591-4c5b-b99a-682988359d7e.json
+[25Dec2024 23:41:20.525] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/bd8218f6-7591-4c5b-b99a-682988359d7e.json
+[25Dec2024 23:41:20.526] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/bd8218f6-7591-4c5b-b99a-682988359d7e.json
+[25Dec2024 23:41:20.526] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/bd8218f6-7591-4c5b-b99a-682988359d7e.json
+[25Dec2024 23:41:20.527] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/5e9e9a8b-6def-4544-bd1f-ea16a173ef26.json
+[25Dec2024 23:41:20.527] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/5e9e9a8b-6def-4544-bd1f-ea16a173ef26.json
+[25Dec2024 23:41:20.527] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/5e9e9a8b-6def-4544-bd1f-ea16a173ef26.json
+[25Dec2024 23:41:20.527] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/5e9e9a8b-6def-4544-bd1f-ea16a173ef26.json
+[25Dec2024 23:41:20.528] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/5e9e9a8b-6def-4544-bd1f-ea16a173ef26.json
+[25Dec2024 23:41:20.529] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/5e9e9a8b-6def-4544-bd1f-ea16a173ef26.json
+[25Dec2024 23:41:20.529] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/5e9e9a8b-6def-4544-bd1f-ea16a173ef26.json
+[25Dec2024 23:41:20.530] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/5e9e9a8b-6def-4544-bd1f-ea16a173ef26.json
+[25Dec2024 23:41:20.531] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/5e9e9a8b-6def-4544-bd1f-ea16a173ef26.json
+[25Dec2024 23:41:20.531] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/5e9e9a8b-6def-4544-bd1f-ea16a173ef26.json
+[25Dec2024 23:41:20.532] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/5e9e9a8b-6def-4544-bd1f-ea16a173ef26.json
+[25Dec2024 23:41:20.533] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/5e9e9a8b-6def-4544-bd1f-ea16a173ef26.json
+[25Dec2024 23:41:20.628] [Server thread/INFO] [cobgyms/]: Successfully placed structure: cobgyms:gym_woodland01 at 0,0,0
+[25Dec2024 23:41:20.638] [Server thread/INFO] [cobgyms/]: Gym initialised, took: 122ms
+[25Dec2024 23:41:25.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [byronmhx: Teleported Katvi_11 to byronmhx]
+[25Dec2024 23:41:48.805] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[25Dec2024 23:41:48.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <byronmhx> tp katvi byron
+[25Dec2024 23:42:24.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[25Dec2024 23:42:24.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: katvi_11 op<--[HERE]
+[25Dec2024 23:42:46.396] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved trainers/timesLastBattled.json
+[25Dec2024 23:44:07.517] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved trainers/trainerWins.json
