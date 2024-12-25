@@ -2091,3 +2091,12 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [25Dec2024 22:43:12.059] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-191, y=64, z=-1651}
 [25Dec2024 22:43:20.064] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-192, y=62, z=-1655}
 [25Dec2024 22:43:29.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [byronmhx: Set own game mode to Creative Mode]
+[25Dec2024 22:44:45.569] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-199, y=62, z=-1637} BlockPos{x=-200, y=62, z=-1662}
+[25Dec2024 22:44:46.260] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-199, y=62, z=-1637} BlockPos{x=-200, y=62, z=-1662}
+[25Dec2024 22:44:59.167] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-199, y=62, z=-1637} BlockPos{x=-202, y=62, z=-1662}
+[25Dec2024 22:44:59.663] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-199, y=62, z=-1637} BlockPos{x=-202, y=63, z=-1662}
+[25Dec2024 22:45:19.614] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-199, y=62, z=-1637} BlockPos{x=-211, y=62, z=-1662}
+[25Dec2024 22:45:32.413] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-213, y=62, z=-1662} BlockPos{x=-211, y=62, z=-1662}
+[25Dec2024 22:45:57.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [byronmhx: Set own game mode to Survival Mode]
+[25Dec2024 22:46:06.924] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/projectile/AbstractArrow$Pickup
+[25Dec2024 22:46:10.466] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness
