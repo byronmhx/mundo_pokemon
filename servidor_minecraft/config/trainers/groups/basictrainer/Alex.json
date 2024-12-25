@@ -1,0 +1,89 @@
+{
+  "team": [
+    {
+      "species": "cobblemon:megacharizardy",
+      "gender": "FEMALE",
+      "level": 50,
+      "nature": "cobblemon:adamant",
+      "ability": "drought",
+      "moveset": [
+        "dragonpulse",
+        "shadowclaw",
+        "scratch",
+        "metalclaw"
+      ],
+      "ivs": {
+        "hp": 3,
+        "attack": 21,
+        "defence": 1,
+        "special_attack": 17,
+        "special_defence": 25,
+        "speed": 16
+      },
+      "evs": {},
+      "shiny": false,
+      "heldItem": "minecraft:air",
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:megapidgeot",
+      "gender": "MALE",
+      "level": 60,
+      "nature": "cobblemon:naive",
+      "ability": "noguard",
+      "moveset": [
+        "twister",
+        "sandattack",
+        "quickattack",
+        "hurricane"
+      ],
+      "ivs": {
+        "hp": 6,
+        "attack": 18,
+        "defence": 4,
+        "special_attack": 5,
+        "special_defence": 5,
+        "speed": 9
+      },
+      "evs": {},
+      "shiny": false,
+      "heldItem": "minecraft:air",
+      "aspects": [
+        "mega"
+      ]
+    },
+    {
+      "species": "cobblemon:arcanine",
+      "gender": "MALE",
+      "level": 60,
+      "nature": "cobblemon:sassy",
+      "ability": "intimidate",
+      "moveset": [
+        "smackdown",
+        "takedown",
+        "roar",
+        "reversal"
+      ],
+      "ivs": {
+        "hp": 23,
+        "attack": 31,
+        "defence": 21,
+        "special_attack": 31,
+        "special_defence": 17,
+        "speed": 22
+      },
+      "evs": {},
+      "shiny": false,
+      "heldItem": "minecraft:air",
+      "aspects": [
+        "hisuian"
+      ]
+    }
+  ],
+  "winCommand": "",
+  "lossCommand": "",
+  "canOnlyBeatOnce": false,
+  "cooldownSeconds": 0,
+  "partyMaximumLevel": 100,
+  "defeatRequiredTrainers": []
+}
