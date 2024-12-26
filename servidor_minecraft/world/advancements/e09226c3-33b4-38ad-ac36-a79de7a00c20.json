@@ -2609,5 +2609,11 @@
     },
     "done": true
   },
+  "megamons:key_stone": {
+    "criteria": {
+      "has_key_stone": "2024-12-26 00:16:39 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
