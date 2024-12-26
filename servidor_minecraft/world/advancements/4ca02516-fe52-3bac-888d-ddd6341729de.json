@@ -1537,6 +1537,12 @@
     },
     "done": true
   },
+  "cobblemon:full_party": {
+    "criteria": {
+      "full_party": "2024-12-26 00:28:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
     "criteria": {
       "has_potato": "2024-12-25 23:19:21 +0000"

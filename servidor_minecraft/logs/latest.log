@@ -11,3 +11,8 @@
 [26Dec2024 00:18:40.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [byronmhx: Teleported byronmhx to Katvi_11]
 [26Dec2024 00:24:43.165] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 34455527-9724-47e1-925e-a6e6b894c415
 [26Dec2024 00:24:43.166] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 34455527-9724-47e1-925e-a6e6b894c415
+[26Dec2024 00:28:37.968] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: Katvi_11 has made the advancement [Full House]
+[26Dec2024 00:30:35.014] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Katvi_11 lost connection: Disconnected
+[26Dec2024 00:30:35.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Katvi_11 left the game
+[26Dec2024 00:31:38.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [byronmhx: Created new objective [death]]
+[26Dec2024 00:32:04.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [byronmhx: Set display slot list to show objective death]
