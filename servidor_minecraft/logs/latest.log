@@ -1790,3 +1790,40 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [08Apr2025 15:41:14.228] [Netty Epoll Server IO #6/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [darkbread:darkbread,darkfeather:darkfeather,curios:main,sophisticatedbackpacks:channel,sophisticatedcore:channel] rejected their client side version number
 [08Apr2025 15:41:14.228] [Netty Epoll Server IO #6/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
 [08Apr2025 15:41:14.255] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@743ec88[id=<null>,name=byronmhx,properties={},legacy=false] (/100.106.54.31:50463) lost connection: Connection closed - mismatched mod channel list
+[08Apr2025 15:44:24.254] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7ea80a2a[id=<null>,name=byronmhx,properties={},legacy=false] (/100.106.54.31:50504) lost connection: Disconnected
+[08Apr2025 15:45:04.954] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@ba90bdf[id=<null>,name=byronmhx,properties={},legacy=false] (/100.106.54.31:50509) lost connection: Disconnected
+[08Apr2025 15:48:58.738] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/Entity$MovementEmission
+[08Apr2025 15:48:58.740] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/MoverType
+[08Apr2025 15:48:58.741] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/Entity$RemovalReason
+[08Apr2025 15:48:58.746] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/inventory/ClickAction
+[08Apr2025 15:48:58.746] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/player/PlayerModelPart
+[08Apr2025 15:48:58.759] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: byronmhx[/100.106.54.31:50540] logged in with entity id 524 at (-189.6956584004389, 63.0, -1654.137499988079)
+[08Apr2025 15:48:58.768] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/network/filters/VanillaPacketSplitter$RemoteCompatibility
+[08Apr2025 15:48:58.781] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/SpellcasterIllager$IllagerSpell
+[08Apr2025 15:48:58.795] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/cobblemon/mod/common/net/IntSize
+[08Apr2025 15:48:58.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: byronmhx joined the game
+[08Apr2025 15:48:58.995] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/RelativeMovement
+[08Apr2025 15:48:59.175] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/ftb/mods/ftblibrary/integration/permissions/PermissionHelper
+[08Apr2025 15:48:59.191] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/ftb/mods/ftbquests/integration/item_filtering/ItemMatchingSystem
+[08Apr2025 15:48:59.200] [Server thread/INFO] [Jade/]: Syncing config to byronmhx (e09226c3-33b4-38ad-ac36-a79de7a00c20)
+[08Apr2025 15:48:59.272] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/ClipContext$Block
+[08Apr2025 15:48:59.274] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/phys/HitResult$Type
+[08Apr2025 15:48:59.292] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/util/profiling/metrics/MetricCategory
+[08Apr2025 15:48:59.314] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/scores/Team$CollisionRule
+[08Apr2025 15:48:59.339] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/advancements/AdvancementVisibilityEvaluator$VisibilityRule
+[08Apr2025 15:49:00.261] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting journeymap/common/network/data/Side
+[08Apr2025 15:49:00.288] [Netty Epoll Server IO #6/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/network/NetworkEvent$RegistrationChangeType
+[08Apr2025 15:49:04.703] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/cobblemon/mod/common/pokemon/feature/CobblemonSeason
+[08Apr2025 15:49:19.656] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting moe/plushie/armourers_workshop/core/data/EntityActionSet$TransitingMode
+[08Apr2025 15:49:32.457] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/RenderShape
+[08Apr2025 15:49:47.426] [Server thread/INFO] [Easy NPC/]: Opening menu 166ff166-6d02-4b9f-845a-af2ce7cf92ab for npc e39ed076-cbd6-4a01-8776-65dd1b02b22a and player ServerPlayer['byronmhx'/524, l='ServerLevel[world]', x=-187.01, y=63.00, z=-1653.87] with DialogMenuHandler{displayName=literal{Alex}[style={color=#FFFFFF}]}
+[08Apr2025 15:49:47.427] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting de/markusbordihn/easynpc/data/attribute/BaseAttributeType
+[08Apr2025 15:50:02.155] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/item/UseAnim
+[08Apr2025 15:50:40.773] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/core/WarpMode
+[08Apr2025 15:50:42.677] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/api/EventResult
+[08Apr2025 15:50:42.966] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness
+[08Apr2025 15:50:43.482] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/renderdata/DisplaySide
+[08Apr2025 15:50:43.487] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/renderdata/TankPosition
+[08Apr2025 15:50:45.361] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/living/LivingChangeTargetEvent$LivingTargetType
+[08Apr2025 15:50:59.708] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: byronmhx lost connection: Disconnected
+[08Apr2025 15:50:59.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: byronmhx left the game
