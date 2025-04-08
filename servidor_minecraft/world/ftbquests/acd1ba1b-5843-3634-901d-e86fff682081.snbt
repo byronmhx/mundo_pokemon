@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "acd1ba1b58433634901de86fff682081"
+	name: "katvi_11#acd1ba1b"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

@@ -1827,3 +1827,9 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [08Apr2025 15:50:45.361] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/living/LivingChangeTargetEvent$LivingTargetType
 [08Apr2025 15:50:59.708] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: byronmhx lost connection: Disconnected
 [08Apr2025 15:50:59.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: byronmhx left the game
+[08Apr2025 16:17:48.458] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: katvi_11[/100.66.64.8:50289] logged in with entity id 1505 at (-194.5, 63.0, -1653.5)
+[08Apr2025 16:17:48.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: katvi_11 joined the game
+[08Apr2025 16:17:48.526] [Server thread/INFO] [Jade/]: Syncing config to katvi_11 (acd1ba1b-5843-3634-901d-e86fff682081)
+[08Apr2025 16:17:48.544] [dimthread_server_overworld/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/player/AdvancementEvent$AdvancementProgressEvent$ProgressType
+[08Apr2025 16:23:14.756] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: katvi_11 lost connection: Disconnected
+[08Apr2025 16:23:14.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: katvi_11 left the game
